@@ -1,0 +1,558 @@
+{
+  "status": 200,
+  "recent_recipes": [
+    {
+      "id": 41,
+      "name": "Mushroom Risotto",
+      "creator": {
+        "id": 41,
+        "name": "Antonio Carluccio",
+        "img_url": "https://example.com/chefs/antonio.jpg",
+        "bio": "Italian chef, restaurateur and food expert, known as the 'Godfather of Italian gastronomy'",
+        "recipe_count": 124,
+        "total_reviews": 23600,
+        "avg_rating": 4.8,
+        "followers": 1600000,
+        "following": 42
+      },
+      "rating": 4.7,
+      "review_count": 1876,
+      "img_url": "https://example.com/recipes/mushroom-risotto.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/mushroom-risotto.mp4",
+        "total_length": 540000
+      },
+      "serving": 4,
+      "cooking_time": 2700,
+      "category": {
+        "id": 1,
+        "name": "Italian",
+        "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+      },
+      "reviews": [
+        {
+          "id": 81,
+          "comment": "Creamy and full of flavor. Restaurant quality at home!",
+          "rating": 5,
+          "created_at": "2024/10/16",
+          "user_id": 181
+        },
+        {
+          "id": 82,
+          "comment": "Perfect comfort food. Will definitely make again!",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 182
+        }
+      ],
+      "created_at": "2024/10/01",
+      "ingredients": [
+        {
+          "id": 201,
+          "name": "Arborio rice",
+          "img_url": "https://example.com/ingredients/arborio-rice.jpg",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": 202,
+          "name": "Mixed mushrooms",
+          "img_url": "https://example.com/ingredients/mixed-mushrooms.jpg",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "id": 203,
+          "name": "Vegetable broth",
+          "img_url": "https://example.com/ingredients/vegetable-broth.jpg",
+          "quantity": 1,
+          "unit": "L"
+        },
+        {
+          "id": 204,
+          "name": "Parmesan cheese",
+          "img_url": "https://example.com/ingredients/parmesan.jpg",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 205,
+          "name": "White wine",
+          "img_url": "https://example.com/ingredients/white-wine.jpg",
+          "quantity": 120,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "In a large pan, saut\u00e9 chopped onions until translucent.",
+        "Add Arborio rice and toast for 1-2 minutes.",
+        "Pour in white wine and stir until absorbed.",
+        "Begin adding hot vegetable broth, one ladle at a time, stirring constantly.",
+        "In a separate pan, saut\u00e9 mixed mushrooms until golden brown.",
+        "When rice is almost cooked, add saut\u00e9ed mushrooms to the risotto.",
+        "Finish with grated Parmesan cheese and a knob of butter.",
+        "Let rest for a few minutes before serving."
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Tom Yum Goong",
+      "creator": {
+        "id": 38,
+        "name": "Pailin Chongchitnant",
+        "img_url": "https://example.com/chefs/pailin-chongchitnant.jpg",
+        "bio": "Thai chef, author and YouTuber known for her channel 'Pailin's Kitchen'",
+        "recipe_count": 167,
+        "total_reviews": 29800,
+        "avg_rating": 4.8,
+        "followers": 1700000,
+        "following": 93
+      },
+      "rating": 4.9,
+      "review_count": 3254,
+      "img_url": "https://example.com/recipes/tom-yum-goong.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/tom-yum-goong.mp4",
+        "total_length": 780000
+      },
+      "serving": 4,
+      "cooking_time": 1800,
+      "category": {
+        "id": 3,
+        "name": "Asian",
+        "img_url": "https://example.com/categories/asian.jpg"
+      },
+      "reviews": [
+        {
+          "id": 73,
+          "comment": "Perfectly balanced hot and sour flavors. So comforting!",
+          "rating": 5,
+          "created_at": "2024/10/16",
+          "user_id": 173
+        },
+        {
+          "id": 74,
+          "comment": "Tastes just like the soup I had in Thailand. Amazing recipe!",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 174
+        }
+      ],
+      "created_at": "2024/07/07",
+      "ingredients": [
+        {
+          "id": 181,
+          "name": "Shrimp",
+          "img_url": "https://example.com/ingredients/shrimp.jpg",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": 182,
+          "name": "Lemongrass",
+          "img_url": "https://example.com/ingredients/lemongrass.jpg",
+          "quantity": 2,
+          "unit": "stalks"
+        },
+        {
+          "id": 183,
+          "name": "Kaffir lime leaves",
+          "img_url": "https://example.com/ingredients/kaffir-lime-leaves.jpg",
+          "quantity": 4,
+          "unit": "pieces"
+        },
+        {
+          "id": 184,
+          "name": "Bird's eye chilies",
+          "img_url": "https://example.com/ingredients/birds-eye-chilies.jpg",
+          "quantity": 3,
+          "unit": "pieces"
+        },
+        {
+          "id": 185,
+          "name": "Mushrooms",
+          "img_url": "https://example.com/ingredients/mushrooms.jpg",
+          "quantity": 200,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Bring water to a boil in a pot. Add lemongrass, galangal, and kaffir lime leaves.",
+        "Add mushrooms and cook for a few minutes.",
+        "Add shrimp and cook until they turn pink.",
+        "Season with fish sauce, lime juice, and chili paste to taste.",
+        "Add a splash of evaporated milk for a creamy version (optional).",
+        "Garnish with cilantro and serve hot."
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Vegetable Tempura",
+      "creator": {
+        "id": 39,
+        "name": "Rika Yukimasa",
+        "img_url": "https://example.com/chefs/rika-yukimasa.jpg",
+        "bio": "Japanese chef and TV personality, known for her show 'Dining with the Chef'",
+        "recipe_count": 145,
+        "total_reviews": 26400,
+        "avg_rating": 4.7,
+        "followers": 1500000,
+        "following": 78
+      },
+      "rating": 4.6,
+      "review_count": 2134,
+      "img_url": "https://example.com/recipes/vegetable-tempura.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/vegetable-tempura.mp4",
+        "total_length": 720000
+      },
+      "serving": 4,
+      "cooking_time": 2400,
+      "category": {
+        "id": 3,
+        "name": "Asian",
+        "img_url": "https://example.com/categories/asian.jpg"
+      },
+      "reviews": [
+        {
+          "id": 75,
+          "comment": "Crispy, light, and not greasy at all. Perfect tempura!",
+          "rating": 5,
+          "created_at": "2024/10/14",
+          "user_id": 175
+        },
+        {
+          "id": 76,
+          "comment": "The dipping sauce is a game-changer. Loved it!",
+          "rating": 4,
+          "created_at": "2024/10/13",
+          "user_id": 176
+        }
+      ],
+      "created_at": "2024/07/08",
+      "ingredients": [
+        {
+          "id": 186,
+          "name": "Assorted vegetables (sweet potato, eggplant, bell pepper)",
+          "img_url": "https://example.com/ingredients/assorted-vegetables.jpg",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "id": 187,
+          "name": "All-purpose flour",
+          "img_url": "https://example.com/ingredients/all-purpose-flour.jpg",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 188,
+          "name": "Ice-cold water",
+          "img_url": "https://example.com/ingredients/water.jpg",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "id": 189,
+          "name": "Egg",
+          "img_url": "https://example.com/ingredients/egg.jpg",
+          "quantity": 1,
+          "unit": "piece"
+        },
+        {
+          "id": 190,
+          "name": "Vegetable oil for frying",
+          "img_url": "https://example.com/ingredients/vegetable-oil.jpg",
+          "quantity": 1,
+          "unit": "L"
+        }
+      ],
+      "instructions": [
+        "Prepare vegetables: cut into bite-sized pieces.",
+        "Make tempura batter: lightly beat egg with ice-cold water, then add flour and mix lightly (leave lumps).",
+        "Heat oil in a deep fryer or heavy pot to 340-350\u00b0F (170-175\u00b0C).",
+        "Dip vegetables in batter and fry in batches until golden and crispy.",
+        "Drain on paper towels.",
+        "Serve immediately with tempura dipping sauce (tentsuyu)."
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Soupe \u00e0 l'Oignon",
+      "creator": {
+        "id": 28,
+        "name": "Paul Bocuse",
+        "img_url": "https://example.com/chefs/paul-bocuse.jpg",
+        "bio": "Legendary French chef, considered a pioneer of nouvelle cuisine",
+        "recipe_count": 189,
+        "total_reviews": 35600,
+        "avg_rating": 4.9,
+        "followers": 2100000,
+        "following": 12
+      },
+      "rating": 4.7,
+      "review_count": 2654,
+      "img_url": "https://example.com/recipes/soupe-a-loignon.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/soupe-a-loignon.mp4",
+        "total_length": 480000
+      },
+      "serving": 6,
+      "cooking_time": 5400,
+      "category": {
+        "id": 2,
+        "name": "French",
+        "img_url": "https://example.com/categories/french.jpg"
+      },
+      "reviews": [
+        {
+          "id": 55,
+          "comment": "The perfect comfort food. Rich, flavorful, and satisfying!",
+          "rating": 5,
+          "created_at": "2024/10/16",
+          "user_id": 155
+        },
+        {
+          "id": 56,
+          "comment": "Love the cheesy crust on top. A new favorite winter dish!",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 156
+        }
+      ],
+      "created_at": "2024/06/22",
+      "ingredients": [
+        {
+          "id": 136,
+          "name": "Onions",
+          "img_url": "https://example.com/ingredients/onions.jpg",
+          "quantity": 1.5,
+          "unit": "kg"
+        },
+        {
+          "id": 137,
+          "name": "Beef broth",
+          "img_url": "https://example.com/ingredients/beef-broth.jpg",
+          "quantity": 2,
+          "unit": "L"
+        },
+        {
+          "id": 138,
+          "name": "Baguette",
+          "img_url": "https://example.com/ingredients/baguette.jpg",
+          "quantity": 1,
+          "unit": "loaf"
+        },
+        {
+          "id": 139,
+          "name": "Gruy\u00e8re cheese",
+          "img_url": "https://example.com/ingredients/gruyere.jpg",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": 140,
+          "name": "Dry white wine",
+          "img_url": "https://example.com/ingredients/white-wine.jpg",
+          "quantity": 250,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Thinly slice onions and cook in butter over low heat for 1 hour until caramelized.",
+        "Add flour and cook for 1 minute, then add wine and cook until evaporated.",
+        "Pour in beef broth and simmer for 30 minutes.",
+        "Toast baguette slices and rub with garlic.",
+        "Ladle soup into oven-safe bowls, top with toasted bread and grated Gruy\u00e8re.",
+        "Place under the broiler until cheese is melted and bubbly.",
+        "Serve hot, being careful of the hot bowls."
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Tarte Tatin",
+      "creator": {
+        "id": 29,
+        "name": "Dominique Ansel",
+        "img_url": "https://example.com/chefs/dominique-ansel.jpg",
+        "bio": "French-American pastry chef and owner of Dominique Ansel Bakery, creator of the Cronut",
+        "recipe_count": 156,
+        "total_reviews": 28900,
+        "avg_rating": 4.8,
+        "followers": 1900000,
+        "following": 87
+      },
+      "rating": 4.8,
+      "review_count": 2187,
+      "img_url": "https://example.com/recipes/tarte-tatin.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/tarte-tatin.mp4",
+        "total_length": 600000
+      },
+      "serving": 8,
+      "cooking_time": 3600,
+      "category": {
+        "id": 2,
+        "name": "French",
+        "img_url": "https://example.com/categories/french.jpg"
+      },
+      "reviews": [
+        {
+          "id": 57,
+          "comment": "Perfectly caramelized apples and flaky crust. Delicious!",
+          "rating": 5,
+          "created_at": "2024/10/14",
+          "user_id": 157
+        },
+        {
+          "id": 58,
+          "comment": "A show-stopping dessert that's easier to make than it looks.",
+          "rating": 5,
+          "created_at": "2024/10/13",
+          "user_id": 158
+        }
+      ],
+      "created_at": "2024/06/23",
+      "ingredients": [
+        {
+          "id": 141,
+          "name": "Apples",
+          "img_url": "https://example.com/ingredients/apples.jpg",
+          "quantity": 8,
+          "unit": "medium"
+        },
+        {
+          "id": 142,
+          "name": "Sugar",
+          "img_url": "https://example.com/ingredients/sugar.jpg",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 143,
+          "name": "Butter",
+          "img_url": "https://example.com/ingredients/butter.jpg",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 144,
+          "name": "Puff pastry",
+          "img_url": "https://example.com/ingredients/puff-pastry.jpg",
+          "quantity": 1,
+          "unit": "sheet"
+        },
+        {
+          "id": 145,
+          "name": "Vanilla extract",
+          "img_url": "https://example.com/ingredients/vanilla-extract.jpg",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Peel, core, and quarter the apples.",
+        "In a 9-inch cast-iron skillet, melt butter and stir in sugar.",
+        "Arrange apple quarters in the skillet, rounded sides down.",
+        "Cook over medium heat until the sugar caramelizes and turns amber, about 15-20 minutes.",
+        "Preheat oven to 425\u00b0F (220\u00b0C).",
+        "Roll out puff pastry and place it over the apples, tucking the edges down into the pan.",
+        "Bake for 20-25 minutes until the pastry is golden brown.",
+        "Let cool for 10 minutes, then carefully invert onto a serving plate."
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Salade Ni\u00e7oise",
+      "creator": {
+        "id": 30,
+        "name": "H\u00e9l\u00e8ne Darroze",
+        "img_url": "https://example.com/chefs/helene-darroze.jpg",
+        "bio": "French chef and television personality, runs the two Michelin-starred restaurant H\u00e9l\u00e8ne Darroze at The Connaught in London",
+        "recipe_count": 178,
+        "total_reviews": 31200,
+        "avg_rating": 4.8,
+        "followers": 1700000,
+        "following": 93
+      },
+      "rating": 4.6,
+      "review_count": 1876,
+      "img_url": "https://example.com/recipes/salade-nicoise.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/salade-nicoise.mp4",
+        "total_length": 420000
+      },
+      "serving": 4,
+      "cooking_time": 1800,
+      "category": {
+        "id": 2,
+        "name": "French",
+        "img_url": "https://example.com/categories/french.jpg"
+      },
+      "reviews": [
+        {
+          "id": 59,
+          "comment": "Fresh, light, and full of flavor. Perfect summer meal!",
+          "rating": 5,
+          "created_at": "2024/10/16",
+          "user_id": 159
+        },
+        {
+          "id": 60,
+          "comment": "Loved the combination of ingredients. A satisfying salad!",
+          "rating": 4,
+          "created_at": "2024/10/15",
+          "user_id": 160
+        }
+      ],
+      "created_at": "2024/06/24",
+      "ingredients": [
+        {
+          "id": 146,
+          "name": "Tuna steaks",
+          "img_url": "https://example.com/ingredients/tuna-steaks.jpg",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "id": 147,
+          "name": "Mixed salad greens",
+          "img_url": "https://example.com/ingredients/mixed-greens.jpg",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 148,
+          "name": "Cherry tomatoes",
+          "img_url": "https://example.com/ingredients/cherry-tomatoes.jpg",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 149,
+          "name": "Hard-boiled eggs",
+          "img_url": "https://example.com/ingredients/hard-boiled-eggs.jpg",
+          "quantity": 4,
+          "unit": "pieces"
+        },
+        {
+          "id": 150,
+          "name": "Ni\u00e7oise olives",
+          "img_url": "https://example.com/ingredients/nicoise-olives.jpg",
+          "quantity": 100,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Cook green beans in boiling salted water until tender-crisp, then shock in ice water.",
+        "Boil small potatoes until tender, then quarter them.",
+        "Sear tuna steaks in a hot pan for about 1 minute per side, then slice.",
+        "Arrange mixed greens on a large platter.",
+        "Top with green beans, potatoes, cherry tomatoes, hard-boiled egg quarters, and olives.",
+        "Arrange sliced tuna on top.",
+        "Drizzle with Dijon vinaigrette and garnish with anchovies if desired.",
+        "Serve immediately."
+      ]
+    }
+  ]
+}

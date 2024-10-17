@@ -1,0 +1,115 @@
+{
+  "status": 200,
+  "popular_creators": [
+    {
+      "id": 51,
+      "name": "Jamie Oliver",
+      "img_url": "https://example.com/chefs/jamie.jpg",
+      "bio": "British chef and restaurateur, known for his approachable cuisine and food-focused television shows",
+      "recipe_count": 287,
+      "total_reviews": 542000,
+      "avg_rating": 4.8,
+      "followers": 8700000,
+      "following": 124
+    },
+    {
+      "id": 52,
+      "name": "Ina Garten",
+      "img_url": "https://example.com/chefs/ina.jpg",
+      "bio": "American author and host of the Food Network program Barefoot Contessa",
+      "recipe_count": 218,
+      "total_reviews": 412000,
+      "avg_rating": 4.9,
+      "followers": 3400000,
+      "following": 87
+    },
+    {
+      "id": 53,
+      "name": "Yotam Ottolenghi",
+      "img_url": "https://example.com/chefs/yotam.jpg",
+      "bio": "Israeli-British chef, restaurant owner, and food writer known for his Middle Eastern flavors",
+      "recipe_count": 176,
+      "total_reviews": 298000,
+      "avg_rating": 4.8,
+      "followers": 2100000,
+      "following": 156
+    },
+    {
+      "id": 54,
+      "name": "Nigella Lawson",
+      "img_url": "https://example.com/chefs/nigella.jpg",
+      "bio": "British food writer, journalist and broadcaster, known for her indulgent approach to food",
+      "recipe_count": 243,
+      "total_reviews": 387000,
+      "avg_rating": 4.7,
+      "followers": 2800000,
+      "following": 92
+    },
+    {
+      "id": 55,
+      "name": "Gordon Ramsay",
+      "img_url": "https://example.com/chefs/gordon.jpg",
+      "bio": "British chef, restaurateur, writer, and television personality, known for his fiery temper and Michelin-starred restaurants",
+      "recipe_count": 312,
+      "total_reviews": 678000,
+      "avg_rating": 4.9,
+      "followers": 12500000,
+      "following": 43
+    },
+    {
+      "id": 56,
+      "name": "Massimo Bottura",
+      "img_url": "https://example.com/chefs/massimo.jpg",
+      "bio": "Italian restaurateur and chef patron of Osteria Francescana, a three-Michelin-star restaurant",
+      "recipe_count": 134,
+      "total_reviews": 187000,
+      "avg_rating": 4.9,
+      "followers": 1800000,
+      "following": 76
+    },
+    {
+      "id": 57,
+      "name": "Samin Nosrat",
+      "img_url": "https://example.com/chefs/samin.jpg",
+      "bio": "American chef, TV host and food writer, known for her book 'Salt Fat Acid Heat'",
+      "recipe_count": 98,
+      "total_reviews": 156000,
+      "avg_rating": 4.8,
+      "followers": 980000,
+      "following": 231
+    },
+    {
+      "id": 58,
+      "name": "Alain Ducasse",
+      "img_url": "https://example.com/chefs/alain.jpg",
+      "bio": "Mon\u00e9gasque chef with 21 Michelin stars, known for his innovative and influential cuisine",
+      "recipe_count": 276,
+      "total_reviews": 412000,
+      "avg_rating": 4.9,
+      "followers": 2700000,
+      "following": 18
+    },
+    {
+      "id": 59,
+      "name": "Donna Hay",
+      "img_url": "https://example.com/chefs/donna.jpg",
+      "bio": "Australian food stylist, author, and magazine editor known for her simple and stylish approach to food",
+      "recipe_count": 187,
+      "total_reviews": 267000,
+      "avg_rating": 4.7,
+      "followers": 1400000,
+      "following": 143
+    },
+    {
+      "id": 60,
+      "name": "David Chang",
+      "img_url": "https://example.com/chefs/david.jpg",
+      "bio": "American restaurateur, author, and television personality, founder of the Momofuku restaurant group",
+      "recipe_count": 156,
+      "total_reviews": 234000,
+      "avg_rating": 4.8,
+      "followers": 1900000,
+      "following": 187
+    }
+  ]
+}

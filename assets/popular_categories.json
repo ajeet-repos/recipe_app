@@ -1,0 +1,2819 @@
+{
+  "status": 200,
+  "popular_categories": [
+    {
+      "category": {
+        "id": 1,
+        "name": "Italian",
+        "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+      },
+      "recipes": [
+        {
+          "id": 11,
+          "name": "Homemade Pizza Margherita",
+          "creator": {
+            "id": 11,
+            "name": "Gino D'Acampo",
+            "img_url": "https://example.com/chefs/gino.jpg",
+            "bio": "Italian celebrity chef known for his food-focused television shows",
+            "recipe_count": 92,
+            "total_reviews": 18900,
+            "avg_rating": 4.7,
+            "followers": 1400000,
+            "following": 89
+          },
+          "rating": 4.8,
+          "review_count": 2567,
+          "img_url": "https://example.com/recipes/pizza-margherita.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/pizza-margherita.mp4",
+            "total_length": 600000
+          },
+          "serving": 4,
+          "cooking_time": 2700,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 21,
+              "comment": "Simple and delicious. The perfect weeknight dinner!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 121
+            },
+            {
+              "id": 22,
+              "comment": "Better than any takeout pizza. Will make again!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 122
+            }
+          ],
+          "created_at": "2024/06/01",
+          "ingredients": [
+            {
+              "id": 51,
+              "name": "Pizza dough",
+              "img_url": "https://www.allrecipes.com/recipe/20171/quick-and-easy-pizza-crust/",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 52,
+              "name": "San Marzano tomatoes",
+              "img_url": "https://example.com/ingredients/san-marzano-tomatoes.jpg",
+              "quantity": 400,
+              "unit": "g"
+            },
+            {
+              "id": 53,
+              "name": "Fresh mozzarella",
+              "img_url": "https://example.com/ingredients/fresh-mozzarella.jpg",
+              "quantity": 250,
+              "unit": "g"
+            },
+            {
+              "id": 54,
+              "name": "Fresh basil",
+              "img_url": "https://example.com/ingredients/fresh-basil.jpg",
+              "quantity": 1,
+              "unit": "bunch"
+            },
+            {
+              "id": 55,
+              "name": "Extra virgin olive oil",
+              "img_url": "https://example.com/ingredients/olive-oil.jpg",
+              "quantity": 2,
+              "unit": "tbsp"
+            }
+          ],
+          "instructions": [
+            "Preheat your oven to the highest temperature, usually around 500\u00b0F (260\u00b0C).",
+            "Roll out the pizza dough on a floured surface to your desired thickness.",
+            "Transfer the dough to a pizza stone or baking sheet.",
+            "Spread a thin layer of crushed San Marzano tomatoes over the dough.",
+            "Tear the fresh mozzarella into pieces and distribute over the tomato sauce.",
+            "Bake for 10-12 minutes or until the crust is golden and the cheese is bubbly.",
+            "Remove from the oven and immediately top with fresh basil leaves.",
+            "Drizzle with extra virgin olive oil before serving."
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Spaghetti Carbonara",
+          "creator": {
+            "id": 12,
+            "name": "Antonio Carluccio",
+            "img_url": "https://example.com/chefs/antonio-carluccio.jpg",
+            "bio": "Italian chef, restaurateur and food expert, known as the 'Godfather of Italian gastronomy'",
+            "recipe_count": 124,
+            "total_reviews": 23600,
+            "avg_rating": 4.8,
+            "followers": 1600000,
+            "following": 42
+          },
+          "rating": 4.9,
+          "review_count": 3254,
+          "img_url": "https://example.com/recipes/spaghetti-carbonara.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/spaghetti-carbonara.mp4",
+            "total_length": 420000
+          },
+          "serving": 4,
+          "cooking_time": 1800,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 23,
+              "comment": "Authentic and delicious! Just like in Rome.",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 123
+            },
+            {
+              "id": 24,
+              "comment": "Simple yet incredibly flavorful. A new favorite!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 124
+            }
+          ],
+          "created_at": "2024/06/02",
+          "ingredients": [
+            {
+              "id": 56,
+              "name": "Spaghetti",
+              "img_url": "https://example.com/ingredients/spaghetti.jpg",
+              "quantity": 400,
+              "unit": "g"
+            },
+            {
+              "id": 57,
+              "name": "Guanciale",
+              "img_url": "https://example.com/ingredients/guanciale.jpg",
+              "quantity": 150,
+              "unit": "g"
+            },
+            {
+              "id": 58,
+              "name": "Pecorino Romano cheese",
+              "img_url": "https://example.com/ingredients/pecorino-romano.jpg",
+              "quantity": 100,
+              "unit": "g"
+            },
+            {
+              "id": 59,
+              "name": "Eggs",
+              "img_url": "https://example.com/ingredients/eggs.jpg",
+              "quantity": 4,
+              "unit": "pieces"
+            },
+            {
+              "id": 60,
+              "name": "Black pepper",
+              "img_url": "https://example.com/ingredients/black-pepper.jpg",
+              "quantity": 2,
+              "unit": "tsp"
+            }
+          ],
+          "instructions": [
+            "Bring a large pot of salted water to boil for the pasta.",
+            "In a bowl, whisk together eggs, grated Pecorino Romano, and black pepper.",
+            "Cut the guanciale into small cubes and cook in a pan until crispy.",
+            "Cook the spaghetti in the boiling water until al dente.",
+            "Reserve 1 cup of pasta water before draining the spaghetti.",
+            "Add the hot spaghetti to the pan with guanciale and toss well.",
+            "Remove the pan from heat and quickly stir in the egg mixture.",
+            "Add some reserved pasta water if needed to create a creamy sauce.",
+            "Serve immediately with extra grated Pecorino Romano and black pepper."
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Osso Buco alla Milanese",
+          "creator": {
+            "id": 13,
+            "name": "Massimo Bottura",
+            "img_url": "https://example.com/chefs/massimo-bottura.jpg",
+            "bio": "Italian restaurateur and chef patron of Osteria Francescana, a three-Michelin-star restaurant",
+            "recipe_count": 134,
+            "total_reviews": 187000,
+            "avg_rating": 4.9,
+            "followers": 1800000,
+            "following": 76
+          },
+          "rating": 4.8,
+          "review_count": 2187,
+          "img_url": "https://example.com/recipes/osso-buco.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/osso-buco.mp4",
+            "total_length": 720000
+          },
+          "serving": 4,
+          "cooking_time": 7200,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 25,
+              "comment": "Melt-in-your-mouth tender. Worth the effort!",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 125
+            },
+            {
+              "id": 26,
+              "comment": "Restaurant quality at home. Impressive dish!",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 126
+            }
+          ],
+          "created_at": "2024/06/03",
+          "ingredients": [
+            {
+              "id": 61,
+              "name": "Veal shanks",
+              "img_url": "https://example.com/ingredients/veal-shanks.jpg",
+              "quantity": 4,
+              "unit": "pieces"
+            },
+            {
+              "id": 62,
+              "name": "White wine",
+              "img_url": "https://example.com/ingredients/white-wine.jpg",
+              "quantity": 250,
+              "unit": "ml"
+            },
+            {
+              "id": 63,
+              "name": "Beef broth",
+              "img_url": "https://example.com/ingredients/beef-broth.jpg",
+              "quantity": 500,
+              "unit": "ml"
+            },
+            {
+              "id": 64,
+              "name": "Gremolata",
+              "img_url": "https://example.com/ingredients/gremolata.jpg",
+              "quantity": 1,
+              "unit": "portion"
+            },
+            {
+              "id": 65,
+              "name": "Risotto alla Milanese",
+              "img_url": "https://example.com/ingredients/risotto-milanese.jpg",
+              "quantity": 4,
+              "unit": "servings"
+            }
+          ],
+          "instructions": [
+            "Tie the veal shanks with kitchen twine to keep their shape.",
+            "Dredge the veal in flour and brown in a large pot with olive oil.",
+            "Add chopped onion, carrot, and celery to the pot and cook until softened.",
+            "Pour in white wine and let it evaporate.",
+            "Add beef broth, tomatoes, and herbs. Bring to a simmer.",
+            "Cover and cook in a 325\u00b0F (165\u00b0C) oven for about 2 hours or until meat is tender.",
+            "Prepare the gremolata by mixing chopped parsley, lemon zest, and garlic.",
+            "Serve the osso buco over risotto alla Milanese, topped with gremolata."
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Panna Cotta",
+          "creator": {
+            "id": 14,
+            "name": "Gennaro Contaldo",
+            "img_url": "https://example.com/chefs/gennaro-contaldo.jpg",
+            "bio": "Italian chef known for his traditional Italian recipes and as Jamie Oliver's mentor",
+            "recipe_count": 86,
+            "total_reviews": 15780,
+            "avg_rating": 4.8,
+            "followers": 1100000,
+            "following": 67
+          },
+          "rating": 4.7,
+          "review_count": 1876,
+          "img_url": "https://example.com/recipes/panna-cotta.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/panna-cotta.mp4",
+            "total_length": 360000
+          },
+          "serving": 6,
+          "cooking_time": 1800,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 27,
+              "comment": "Silky smooth and perfectly sweet. A delightful dessert!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 127
+            },
+            {
+              "id": 28,
+              "comment": "So easy to make and absolutely delicious.",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 128
+            }
+          ],
+          "created_at": "2024/06/04",
+          "ingredients": [
+            {
+              "id": 66,
+              "name": "Heavy cream",
+              "img_url": "https://example.com/ingredients/heavy-cream.jpg",
+              "quantity": 500,
+              "unit": "ml"
+            },
+            {
+              "id": 67,
+              "name": "Sugar",
+              "img_url": "https://example.com/ingredients/sugar.jpg",
+              "quantity": 100,
+              "unit": "g"
+            },
+            {
+              "id": 68,
+              "name": "Vanilla bean",
+              "img_url": "https://example.com/ingredients/vanilla-bean.jpg",
+              "quantity": 1,
+              "unit": "piece"
+            },
+            {
+              "id": 69,
+              "name": "Gelatin sheets",
+              "img_url": "https://example.com/ingredients/gelatin-sheets.jpg",
+              "quantity": 3,
+              "unit": "sheets"
+            },
+            {
+              "id": 70,
+              "name": "Fresh berries",
+              "img_url": "https://example.com/ingredients/fresh-berries.jpg",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Soak gelatin sheets in cold water for 5-10 minutes.",
+            "In a saucepan, heat cream, sugar, and scraped vanilla bean.",
+            "Remove from heat just before boiling and stir until sugar dissolves.",
+            "Squeeze excess water from gelatin and stir into the warm cream mixture.",
+            "Pour into ramekins and refrigerate for at least 4 hours or overnight.",
+            "To serve, dip ramekins in hot water briefly and invert onto plates.",
+            "Garnish with fresh berries or a fruit compote."
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Ribollita",
+          "creator": {
+            "id": 15,
+            "name": "Fabio Viviani",
+            "img_url": "https://example.com/chefs/fabio-viviani.jpg",
+            "bio": "Italian-born American chef, restaurateur, and television personality",
+            "recipe_count": 78,
+            "total_reviews": 13200,
+            "avg_rating": 4.7,
+            "followers": 920000,
+            "following": 103
+          },
+          "rating": 4.6,
+          "review_count": 1543,
+          "img_url": "https://example.com/recipes/ribollita.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/ribollita.mp4",
+            "total_length": 540000
+          },
+          "serving": 6,
+          "cooking_time": 3600,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 29,
+              "comment": "Hearty and comforting. Perfect for cold days!",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 129
+            },
+            {
+              "id": 30,
+              "comment": "Delicious way to use up stale bread. Will make again!",
+              "rating": 4,
+              "created_at": "2024/10/13",
+              "user_id": 130
+            }
+          ],
+          "created_at": "2024/06/05",
+          "ingredients": [
+            {
+              "id": 71,
+              "name": "Cannellini beans",
+              "img_url": "https://example.com/ingredients/cannellini-beans.jpg",
+              "quantity": 400,
+              "unit": "g"
+            },
+            {
+              "id": 72,
+              "name": "Cavolo nero (Tuscan kale)",
+              "img_url": "https://example.com/ingredients/cavolo-nero.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 73,
+              "name": "Stale bread",
+              "img_url": "https://example.com/ingredients/stale-bread.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 74,
+              "name": "Carrots",
+              "img_url": "https://example.com/ingredients/carrots.jpg",
+              "quantity": 2,
+              "unit": "pieces"
+            },
+            {
+              "id": 75,
+              "name": "Celery",
+              "img_url": "https://example.com/ingredients/celery.jpg",
+              "quantity": 2,
+              "unit": "stalks"
+            }
+          ],
+          "instructions": [
+            "Saut\u00e9 chopped onions, carrots, and celery in olive oil until softened.",
+            "Add minced garlic and tomato paste, cook for another minute.",
+            "Pour in vegetable broth and add cannellini beans and herbs.",
+            "Simmer for 20 minutes, then add chopped cavolo nero.",
+            "Cook for another 15 minutes until the kale is tender.",
+            "Add chunks of stale bread and stir until the bread breaks down.",
+            "Season with salt and pepper to taste.",
+            "Serve hot, drizzled with extra virgin olive oil."
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Arancini",
+          "creator": {
+            "id": 16,
+            "name": "Giorgio Locatelli",
+            "img_url": "https://example.com/chefs/giorgio-locatelli.jpg",
+            "bio": "Italian chef and restaurateur, known for his London restaurant Locanda Locatelli",
+            "recipe_count": 92,
+            "total_reviews": 17400,
+            "avg_rating": 4.8,
+            "followers": 1300000,
+            "following": 56
+          },
+          "rating": 4.8,
+          "review_count": 2134,
+          "img_url": "https://example.com/recipes/arancini.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/arancini.mp4",
+            "total_length": 600000
+          },
+          "serving": 6,
+          "cooking_time": 3600,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 31,
+              "comment": "Crispy outside, creamy inside. Absolutely delicious!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 131
+            },
+            {
+              "id": 32,
+              "comment": "Great way to use leftover risotto. A new favorite!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 132
+            }
+          ],
+          "created_at": "2024/06/06",
+          "ingredients": [
+            {
+              "id": 76,
+              "name": "Leftover risotto",
+              "img_url": "https://example.com/ingredients/leftover-risotto.jpg",
+              "quantity": 600,
+              "unit": "g"
+            },
+            {
+              "id": 77,
+              "name": "Mozzarella cheese",
+              "img_url": "https://example.com/ingredients/mozzarella.jpg",
+              "quantity": 150,
+              "unit": "g"
+            },
+            {
+              "id": 78,
+              "name": "Breadcrumbs",
+              "img_url": "https://example.com/ingredients/breadcrumbs.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 79,
+              "name": "Eggs",
+              "img_url": "https://example.com/ingredients/eggs.jpg",
+              "quantity": 3,
+              "unit": "pieces"
+            },
+            {
+              "id": 80,
+              "name": "Vegetable oil",
+              "img_url": "https://example.com/ingredients/vegetable-oil.jpg",
+              "quantity": 500,
+              "unit": "ml"
+            }
+          ],
+          "instructions": [
+            "Take a handful of cold risotto and flatten it in your palm.",
+            "Place a cube of mozzarella in the center and form a ball around it.",
+            "Beat the eggs in a shallow dish.",
+            "Roll each risotto ball in flour, then egg, then breadcrumbs.",
+            "Heat vegetable oil in a deep fryer or heavy-bottomed pot to 350\u00b0F (175\u00b0C).",
+            "Fry the arancini in batches until golden brown, about 3-4 minutes.",
+            "Drain on paper towels and season with salt.",
+            "Serve hot with marinara sauce for dipping."
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Pasta alla Norma",
+          "creator": {
+            "id": 17,
+            "name": "Lidia Bastianich",
+            "img_url": "https://example.com/chefs/lidia-bastianich.jpg",
+            "bio": "Italian-American chef, television host, author, and restaurateur",
+            "recipe_count": 156,
+            "total_reviews": 28900,
+            "avg_rating": 4.9,
+            "followers": 2200000,
+            "following": 38
+          },
+          "rating": 4.7,
+          "review_count": 1876,
+          "img_url": "https://example.com/recipes/pasta-alla-norma.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/pasta-alla-norma.mp4",
+            "total_length": 480000
+          },
+          "serving": 4,
+          "cooking_time": 1800,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 33,
+              "comment": "Simple yet incredibly flavorful. A taste of Sicily!",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 133
+            },
+            {
+              "id": 34,
+              "comment": "The fried eggplant makes this dish special. Loved it!",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 134
+            }
+          ],
+          "created_at": "2024/06/07",
+          "ingredients": [
+            {
+              "id": 81,
+              "name": "Rigatoni pasta",
+              "img_url": "https://example.com/ingredients/rigatoni.jpg",
+              "quantity": 400,
+              "unit": "g"
+            },
+            {
+              "id": 82,
+              "name": "Eggplant",
+              "img_url": "https://example.com/ingredients/eggplant.jpg",
+              "quantity": 1,
+              "unit": "large"
+            },
+            {
+              "id": 83,
+              "name": "Canned tomatoes",
+              "img_url": "https://example.com/ingredients/canned-tomatoes.jpg",
+              "quantity": 800,
+              "unit": "g"
+            },
+            {
+              "id": 84,
+              "name": "Ricotta salata",
+              "img_url": "https://example.com/ingredients/ricotta-salata.jpg",
+              "quantity": 100,
+              "unit": "g"
+            },
+            {
+              "id": 85,
+              "name": "Fresh basil",
+              "img_url": "https://example.com/ingredients/fresh-basil.jpg",
+              "quantity": 1,
+              "unit": "bunch"
+            }
+          ],
+          "instructions": [
+            "Cut eggplant into cubes and salt them. Let sit for 30 minutes, then pat dry.",
+            "Fry eggplant cubes in olive oil until golden brown. Set aside.",
+            "In the same pan, saut\u00e9 garlic in olive oil until fragrant.",
+            "Add canned tomatoes and simmer for 15-20 minutes.",
+            "Cook rigatoni in salted boiling water until al dente.",
+            "Add fried eggplant to the tomato sauce and heat through.",
+            "Toss cooked pasta with the sauce and eggplant.",
+            "Serve topped with grated ricotta salata and fresh basil leaves."
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Saltimbocca alla Romana",
+          "creator": {
+            "id": 18,
+            "name": "Mario Batali",
+            "img_url": "https://example.com/chefs/mario-batali.jpg",
+            "bio": "American chef, writer, restaurateur and media personality",
+            "recipe_count": 132,
+            "total_reviews": 24600,
+            "avg_rating": 4.8,
+            "followers": 1800000,
+            "following": 72
+          },
+          "rating": 4.9,
+          "review_count": 2345,
+          "img_url": "https://example.com/recipes/saltimbocca.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/saltimbocca.mp4",
+            "total_length": 420000
+          },
+          "serving": 4,
+          "cooking_time": 1200,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 35,
+              "comment": "Melt-in-your-mouth tender. Restaurant quality at home!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 135
+            },
+            {
+              "id": 36,
+              "comment": "The combination of veal, prosciutto, and sage is perfect.",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 136
+            }
+          ],
+          "created_at": "2024/06/08",
+          "ingredients": [
+            {
+              "id": 86,
+              "name": "Veal cutlets",
+              "img_url": "https://example.com/ingredients/veal-cutlets.jpg",
+              "quantity": 4,
+              "unit": "pieces"
+            },
+            {
+              "id": 87,
+              "name": "Prosciutto",
+              "img_url": "https://example.com/ingredients/prosciutto.jpg",
+              "quantity": 4,
+              "unit": "slices"
+            },
+            {
+              "id": 88,
+              "name": "Fresh sage leaves",
+              "img_url": "https://example.com/ingredients/sage-leaves.jpg",
+              "quantity": 8,
+              "unit": "leaves"
+            },
+            {
+              "id": 89,
+              "name": "White wine",
+              "img_url": "https://example.com/ingredients/white-wine.jpg",
+              "quantity": 120,
+              "unit": "ml"
+            },
+            {
+              "id": 90,
+              "name": "Butter",
+              "img_url": "https://example.com/ingredients/butter.jpg",
+              "quantity": 50,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Place a sage leaf on each veal cutlet, then top with a slice of prosciutto.",
+            "Secure the prosciutto and sage with toothpicks.",
+            "Dredge the veal packets in flour, shaking off excess.",
+            "Heat olive oil in a large skillet over medium-high heat.",
+            "Cook the veal packets for 3 minutes on each side until golden.",
+            "Remove the veal and keep warm.",
+            "Deglaze the pan with white wine, scraping up any brown bits.",
+            "Add butter to the pan and swirl to create a sauce.",
+            "Pour the sauce over the veal and serve immediately."
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Caponata",
+          "creator": {
+            "id": 19,
+            "name": "Giada De Laurentiis",
+            "img_url": "https://example.com/chefs/giada-de-laurentiis.jpg",
+            "bio": "Italian-American chef, writer, and television personality",
+            "recipe_count": 178,
+            "total_reviews": 32100,
+            "avg_rating": 4.8,
+            "followers": 2700000,
+            "following": 124
+          },
+          "rating": 4.6,
+          "review_count": 1654,
+          "img_url": "https://example.com/recipes/caponata.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/caponata.mp4",
+            "total_length": 540000
+          },
+          "serving": 6,
+          "cooking_time": 2400,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 37,
+              "comment": "Bursting with flavors! Great as a side or on bruschetta.",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 137
+            },
+            {
+              "id": 38,
+              "comment": "Love the sweet and sour taste. Perfect summer dish!",
+              "rating": 4,
+              "created_at": "2024/10/13",
+              "user_id": 138
+            }
+          ],
+          "created_at": "2024/06/09",
+          "ingredients": [
+            {
+              "id": 91,
+              "name": "Eggplant",
+              "img_url": "https://example.com/ingredients/eggplant.jpg",
+              "quantity": 1,
+              "unit": "large"
+            },
+            {
+              "id": 92,
+              "name": "Celery",
+              "img_url": "https://example.com/ingredients/celery.jpg",
+              "quantity": 2,
+              "unit": "stalks"
+            },
+            {
+              "id": 93,
+              "name": "Red bell pepper",
+              "img_url": "https://example.com/ingredients/red-bell-pepper.jpg",
+              "quantity": 1,
+              "unit": "piece"
+            },
+            {
+              "id": 94,
+              "name": "Capers",
+              "img_url": "https://example.com/ingredients/capers.jpg",
+              "quantity": 2,
+              "unit": "tbsp"
+            },
+            {
+              "id": 95,
+              "name": "Red wine vinegar",
+              "img_url": "https://example.com/ingredients/red-wine-vinegar.jpg",
+              "quantity": 60,
+              "unit": "ml"
+            }
+          ],
+          "instructions": [
+            "Cut eggplant into cubes and salt them. Let sit for 30 minutes, then pat dry.",
+            "Fry eggplant cubes in olive oil until golden brown. Set aside.",
+            "In the same pan, saut\u00e9 chopped onions and celery until softened.",
+            "Add diced bell peppers and cook for another 5 minutes.",
+            "Stir in tomato paste, capers, olives, and vinegar.",
+            "Add fried eggplant back to the pan and simmer for 15 minutes.",
+            "Stir in chopped basil and season with salt and pepper.",
+            "Serve at room temperature as a side dish or on toasted bread."
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Gnocchi alla Sorrentina",
+          "creator": {
+            "id": 20,
+            "name": "Massimo Bottura",
+            "img_url": "https://example.com/chefs/massimo-bottura.jpg",
+            "bio": "Italian restaurateur and chef patron of Osteria Francescana, a three-Michelin-star restaurant",
+            "recipe_count": 134,
+            "total_reviews": 187000,
+            "avg_rating": 4.9,
+            "followers": 1800000,
+            "following": 76
+          },
+          "rating": 4.8,
+          "review_count": 2098,
+          "img_url": "https://example.com/recipes/gnocchi-sorrentina.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/gnocchi-sorrentina.mp4",
+            "total_length": 600000
+          },
+          "serving": 4,
+          "cooking_time": 2700,
+          "category": {
+            "id": 1,
+            "name": "Italian",
+            "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+          },
+          "reviews": [
+            {
+              "id": 39,
+              "comment": "Comfort food at its best! The gnocchi were perfectly pillowy.",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 139
+            },
+            {
+              "id": 40,
+              "comment": "The tomato sauce and melted mozzarella make this dish irresistible!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 140
+            }
+          ],
+          "created_at": "2024/06/10",
+          "ingredients": [
+            {
+              "id": 96,
+              "name": "Potato gnocchi",
+              "img_url": "https://example.com/ingredients/potato-gnocchi.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 97,
+              "name": "Tomato sauce",
+              "img_url": "https://example.com/ingredients/tomato-sauce.jpg",
+              "quantity": 400,
+              "unit": "ml"
+            },
+            {
+              "id": 98,
+              "name": "Fresh mozzarella",
+              "img_url": "https://example.com/ingredients/fresh-mozzarella.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 99,
+              "name": "Parmesan cheese",
+              "img_url": "https://example.com/ingredients/parmesan-cheese.jpg",
+              "quantity": 50,
+              "unit": "g"
+            },
+            {
+              "id": 100,
+              "name": "Fresh basil",
+              "img_url": "https://example.com/ingredients/fresh-basil.jpg",
+              "quantity": 1,
+              "unit": "bunch"
+            }
+          ],
+          "instructions": [
+            "Preheat the oven to 400\u00b0F (200\u00b0C).",
+            "Cook the gnocchi in boiling salted water until they float to the surface.",
+            "Drain the gnocchi and toss with half of the tomato sauce.",
+            "Transfer the gnocchi to a baking dish.",
+            "Pour the remaining tomato sauce over the gnocchi.",
+            "Top with torn pieces of fresh mozzarella and grated Parmesan.",
+            "Bake for 20-25 minutes until the cheese is melted and bubbly.",
+            "Garnish with fresh basil leaves before serving."
+          ]
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": 2,
+        "name": "French",
+        "img_url": "https://example.com/categories/french.jpg"
+      },
+      "recipes": [
+        {
+          "id": 21,
+          "name": "Coq au Vin",
+          "creator": {
+            "id": 21,
+            "name": "Alain Ducasse",
+            "img_url": "https://example.com/chefs/alain.jpg",
+            "bio": "Renowned French chef and restaurateur with multiple Michelin stars",
+            "recipe_count": 156,
+            "total_reviews": 31200,
+            "avg_rating": 4.9,
+            "followers": 3800000,
+            "following": 23
+          },
+          "rating": 4.8,
+          "review_count": 3876,
+          "img_url": "https://example.com/recipes/coq-au-vin.jpg",
+          "video": {
+            "video_url": "https://www.bonappetit.com/recipe/classic-coq-au-vin",
+            "total_length": 720000
+          },
+          "serving": 6,
+          "cooking_time": 7200,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 41,
+              "comment": "Absolutely delicious! Worth the time and effort.",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 141
+            },
+            {
+              "id": 42,
+              "comment": "Restaurant quality at home. Impressive dish!",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 142
+            }
+          ],
+          "created_at": "2024/06/15",
+          "ingredients": [
+            {
+              "id": 101,
+              "name": "Chicken",
+              "img_url": "https://example.com/ingredients/chicken.jpg",
+              "quantity": 1.5,
+              "unit": "kg"
+            },
+            {
+              "id": 102,
+              "name": "Red wine",
+              "img_url": "https://example.com/ingredients/red-wine.jpg",
+              "quantity": 750,
+              "unit": "ml"
+            },
+            {
+              "id": 103,
+              "name": "Bacon lardons",
+              "img_url": "https://example.com/ingredients/bacon.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 104,
+              "name": "Pearl onions",
+              "img_url": "https://example.com/ingredients/pearl-onions.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 105,
+              "name": "Button mushrooms",
+              "img_url": "https://example.com/ingredients/mushrooms.jpg",
+              "quantity": 300,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Marinate the chicken pieces in red wine, carrots, onions, and herbs overnight.",
+            "The next day, remove the chicken and pat dry. Strain and reserve the marinade.",
+            "In a large Dutch oven, brown the bacon lardons and remove with a slotted spoon.",
+            "Brown the chicken pieces in the bacon fat and set aside.",
+            "Saut\u00e9 the vegetables from the marinade until softened.",
+            "Add the chicken back to the pot along with the reserved marinade and bacon.",
+            "Simmer gently for about 1 hour or until the chicken is tender.",
+            "In a separate pan, saut\u00e9 pearl onions and mushrooms until golden.",
+            "Add the onions and mushrooms to the chicken and cook for another 10 minutes.",
+            "Adjust seasoning and serve hot with crusty bread or over mashed potatoes."
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Ratatouille",
+          "creator": {
+            "id": 22,
+            "name": "Michel Roux Jr.",
+            "img_url": "https://example.com/chefs/michel-roux-jr.jpg",
+            "bio": "French-British chef and restaurateur, known for his two-Michelin-starred restaurant Le Gavroche",
+            "recipe_count": 167,
+            "total_reviews": 29800,
+            "avg_rating": 4.9,
+            "followers": 2100000,
+            "following": 87
+          },
+          "rating": 4.7,
+          "review_count": 2876,
+          "img_url": "https://example.com/recipes/ratatouille.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/ratatouille.mp4",
+            "total_length": 720000
+          },
+          "serving": 6,
+          "cooking_time": 3600,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 43,
+              "comment": "Delicious and healthy! The perfect summer dish.",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 143
+            },
+            {
+              "id": 44,
+              "comment": "Loved the mix of flavors. Will definitely make again!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 144
+            }
+          ],
+          "created_at": "2024/06/16",
+          "ingredients": [
+            {
+              "id": 106,
+              "name": "Eggplant",
+              "img_url": "https://example.com/ingredients/eggplant.jpg",
+              "quantity": 1,
+              "unit": "large"
+            },
+            {
+              "id": 107,
+              "name": "Zucchini",
+              "img_url": "https://example.com/ingredients/zucchini.jpg",
+              "quantity": 2,
+              "unit": "medium"
+            },
+            {
+              "id": 108,
+              "name": "Bell peppers",
+              "img_url": "https://example.com/ingredients/bell-peppers.jpg",
+              "quantity": 2,
+              "unit": "medium"
+            },
+            {
+              "id": 109,
+              "name": "Tomatoes",
+              "img_url": "https://example.com/ingredients/tomatoes.jpg",
+              "quantity": 4,
+              "unit": "large"
+            },
+            {
+              "id": 110,
+              "name": "Onion",
+              "img_url": "https://example.com/ingredients/onion.jpg",
+              "quantity": 1,
+              "unit": "large"
+            }
+          ],
+          "instructions": [
+            "Cut all vegetables into roughly 1-inch pieces.",
+            "In a large pot, saut\u00e9 onions and garlic until softened.",
+            "Add bell peppers and cook for 5 minutes.",
+            "Add zucchini, eggplant, and tomatoes. Stir well.",
+            "Add herbs, salt, and pepper. Cover and simmer for 30 minutes.",
+            "Uncover and cook for another 15 minutes to reduce liquid.",
+            "Adjust seasoning to taste.",
+            "Serve hot or at room temperature, garnished with fresh basil."
+          ]
+        },
+        {
+          "id": 23,
+          "name": "Quiche Lorraine",
+          "creator": {
+            "id": 23,
+            "name": "Julia Child",
+            "img_url": "https://example.com/chefs/julia-child.jpg",
+            "bio": "American chef, author, and television personality who popularized French cuisine in America",
+            "recipe_count": 189,
+            "total_reviews": 35700,
+            "avg_rating": 4.9,
+            "followers": 3200000,
+            "following": 0
+          },
+          "rating": 4.8,
+          "review_count": 3102,
+          "img_url": "https://example.com/recipes/quiche-lorraine.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/quiche-lorraine.mp4",
+            "total_length": 600000
+          },
+          "serving": 8,
+          "cooking_time": 2700,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 45,
+              "comment": "Classic and delicious. The crust was perfectly flaky!",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 145
+            },
+            {
+              "id": 46,
+              "comment": "Rich and satisfying. Great for brunch or dinner.",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 146
+            }
+          ],
+          "created_at": "2024/06/17",
+          "ingredients": [
+            {
+              "id": 111,
+              "name": "Pie crust",
+              "img_url": "https://example.com/ingredients/pie-crust.jpg",
+              "quantity": 1,
+              "unit": "9-inch"
+            },
+            {
+              "id": 112,
+              "name": "Bacon",
+              "img_url": "https://example.com/ingredients/bacon.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 113,
+              "name": "Heavy cream",
+              "img_url": "https://example.com/ingredients/heavy-cream.jpg",
+              "quantity": 250,
+              "unit": "ml"
+            },
+            {
+              "id": 114,
+              "name": "Eggs",
+              "img_url": "https://example.com/ingredients/eggs.jpg",
+              "quantity": 4,
+              "unit": "large"
+            },
+            {
+              "id": 115,
+              "name": "Gruy\u00e8re cheese",
+              "img_url": "https://example.com/ingredients/gruyere.jpg",
+              "quantity": 150,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Preheat oven to 375\u00b0F (190\u00b0C).",
+            "Blind bake the pie crust for 15 minutes.",
+            "Cook bacon until crispy, then crumble.",
+            "Whisk together eggs, cream, salt, pepper, and nutmeg.",
+            "Sprinkle bacon and grated cheese over the pre-baked crust.",
+            "Pour the egg mixture over the bacon and cheese.",
+            "Bake for 30-35 minutes until golden and set.",
+            "Let cool for 10 minutes before serving."
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Bouillabaisse",
+          "creator": {
+            "id": 24,
+            "name": "Alain Ducasse",
+            "img_url": "https://example.com/chefs/alain-ducasse.jpg",
+            "bio": "French-born Mon\u00e9gasque chef, operates restaurants around the world with a total of 21 Michelin stars",
+            "recipe_count": 276,
+            "total_reviews": 412000,
+            "avg_rating": 4.9,
+            "followers": 2700000,
+            "following": 18
+          },
+          "rating": 4.9,
+          "review_count": 2567,
+          "img_url": "https://example.com/recipes/bouillabaisse.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/bouillabaisse.mp4",
+            "total_length": 900000
+          },
+          "serving": 6,
+          "cooking_time": 5400,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 47,
+              "comment": "Incredible flavors! Worth the effort for a special occasion.",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 147
+            },
+            {
+              "id": 48,
+              "comment": "Tastes like a seaside vacation. Absolutely delicious!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 148
+            }
+          ],
+          "created_at": "2024/06/18",
+          "ingredients": [
+            {
+              "id": 116,
+              "name": "Assorted fish (sea bass, red mullet, monkfish)",
+              "img_url": "https://example.com/ingredients/assorted-fish.jpg",
+              "quantity": 1.5,
+              "unit": "kg"
+            },
+            {
+              "id": 117,
+              "name": "Mussels",
+              "img_url": "https://example.com/ingredients/mussels.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 118,
+              "name": "Leeks",
+              "img_url": "https://example.com/ingredients/leeks.jpg",
+              "quantity": 2,
+              "unit": "pieces"
+            },
+            {
+              "id": 119,
+              "name": "Fennel",
+              "img_url": "https://example.com/ingredients/fennel.jpg",
+              "quantity": 1,
+              "unit": "bulb"
+            },
+            {
+              "id": 120,
+              "name": "Saffron threads",
+              "img_url": "https://example.com/ingredients/saffron.jpg",
+              "quantity": 1,
+              "unit": "pinch"
+            }
+          ],
+          "instructions": [
+            "In a large pot, saut\u00e9 chopped onions, leeks, and fennel until softened.",
+            "Add garlic, tomatoes, and herbs. Cook for 5 minutes.",
+            "Pour in white wine and fish stock. Add saffron. Simmer for 30 minutes.",
+            "Strain the broth and return to the pot.",
+            "Add potatoes and cook until tender.",
+            "Add fish pieces and cook for 5 minutes.",
+            "Add mussels and cook until they open.",
+            "Serve hot with rouille and crusty bread."
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Cassoulet",
+          "creator": {
+            "id": 25,
+            "name": "Raymond Blanc",
+            "img_url": "https://example.com/chefs/raymond-blanc.jpg",
+            "bio": "French chef patron at Le Manoir aux Quat' Saisons, a two-Michelin-starred restaurant in Oxfordshire, England",
+            "recipe_count": 203,
+            "total_reviews": 38600,
+            "avg_rating": 4.8,
+            "followers": 1900000,
+            "following": 95
+          },
+          "rating": 4.7,
+          "review_count": 1987,
+          "img_url": "https://example.com/recipes/cassoulet.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/cassoulet.mp4",
+            "total_length": 1080000
+          },
+          "serving": 8,
+          "cooking_time": 14400,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 49,
+              "comment": "A hearty, comforting dish. Perfect for cold winter nights!",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 149
+            },
+            {
+              "id": 50,
+              "comment": "Time-consuming but so worth it. The flavors are amazing.",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 150
+            }
+          ],
+          "created_at": "2024/06/19",
+          "ingredients": [
+            {
+              "id": 121,
+              "name": "White beans",
+              "img_url": "https://example.com/ingredients/white-beans.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 122,
+              "name": "Duck confit",
+              "img_url": "https://example.com/ingredients/duck-confit.jpg",
+              "quantity": 4,
+              "unit": "legs"
+            },
+            {
+              "id": 123,
+              "name": "Toulouse sausage",
+              "img_url": "https://example.com/ingredients/toulouse-sausage.jpg",
+              "quantity": 400,
+              "unit": "g"
+            },
+            {
+              "id": 124,
+              "name": "Pork belly",
+              "img_url": "https://example.com/ingredients/pork-belly.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 125,
+              "name": "Breadcrumbs",
+              "img_url": "https://example.com/ingredients/breadcrumbs.jpg",
+              "quantity": 100,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Soak white beans overnight, then drain and rinse.",
+            "In a large pot, cook beans with aromatics until tender.",
+            "Brown sausages and pork belly, then set aside.",
+            "Layer beans, meats, and duck confit in a large casserole dish.",
+            "Pour over cooking liquid from the beans.",
+            "Top with breadcrumbs and bake at 300\u00b0F (150\u00b0C) for 3 hours.",
+            "Stir occasionally and add more liquid if needed.",
+            "Increase heat to 400\u00b0F (200\u00b0C) for the last 15 minutes to crisp the top."
+          ]
+        },
+        {
+          "id": 26,
+          "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+          "creator": {
+            "id": 26,
+            "name": "Pierre Herm\u00e9",
+            "img_url": "https://example.com/chefs/pierre-herme.jpg",
+            "bio": "French pastry chef and chocolatier, nicknamed the 'Picasso of Pastry'",
+            "recipe_count": 178,
+            "total_reviews": 31200,
+            "avg_rating": 4.9,
+            "followers": 2400000,
+            "following": 62
+          },
+          "rating": 4.8,
+          "review_count": 3421,
+          "img_url": "https:reme-brulee.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/creme-brulee.mp4",
+            "total_length": 540000
+          },
+          "serving": 6,
+          "cooking_time": 3600,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 51,
+              "comment": "Perfectly creamy with a satisfying crack on top. Delicious!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 151
+            },
+            {
+              "id": 52,
+              "comment": "Restaurant quality dessert at home. Impressive and tasty!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 152
+            }
+          ],
+          "created_at": "2024/06/20",
+          "ingredients": [
+            {
+              "id": 126,
+              "name": "Heavy cream",
+              "img_url": "https://example.com/ingredients/heavy-cream.jpg",
+              "quantity": 500,
+              "unit": "ml"
+            },
+            {
+              "id": 127,
+              "name": "Vanilla bean",
+              "img_url": "https://example.com/ingredients/vanilla-bean.jpg",
+              "quantity": 1,
+              "unit": "pod"
+            },
+            {
+              "id": 128,
+              "name": "Egg yolks",
+              "img_url": "https://example.com/ingredients/egg-yolks.jpg",
+              "quantity": 5,
+              "unit": "large"
+            },
+            {
+              "id": 129,
+              "name": "Sugar",
+              "img_url": "https://example.com/ingredients/sugar.jpg",
+              "quantity": 100,
+              "unit": "g"
+            },
+            {
+              "id": 130,
+              "name": "Sugar for topping",
+              "img_url": "https://example.com/ingredients/sugar.jpg",
+              "quantity": 6,
+              "unit": "tbsp"
+            }
+          ],
+          "instructions": [
+            "Preheat oven to 300\u00b0F (150\u00b0C).",
+            "Heat cream with split and scraped vanilla bean until it just boils.",
+            "Whisk egg yolks with sugar until pale.",
+            "Slowly pour hot cream into egg mixture, whisking constantly.",
+            "Strain mixture and pour into ramekins.",
+            "Place ramekins in a water bath and bake for 30-35 minutes until set but still wobbly.",
+            "Chill for at least 2 hours or overnight.",
+            "Before serving, sprinkle with sugar and caramelize with a kitchen torch or under the broiler."
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Beef Bourguignon",
+          "creator": {
+            "id": 27,
+            "name": "Jacques P\u00e9pin",
+            "img_url": "https://example.com/chefs/jacques-pepin.jpg",
+            "bio": "French-born American chef, television personality, and author",
+            "recipe_count": 245,
+            "total_reviews": 42300,
+            "avg_rating": 4.9,
+            "followers": 2800000,
+            "following": 34
+          },
+          "rating": 4.9,
+          "review_count": 3876,
+          "img_url": "https://example.com/recipes/beef-bourguignon.jpg",
+          "video": {
+            "video_url": "https://www.youtube.com/watch?v=kxJEX0RW3Jg",
+            "total_length": 780000
+          },
+          "serving": 6,
+          "cooking_time": 10800,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 53,
+              "comment": "Absolutely divine! The meat was so tender and flavorful.",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 153
+            },
+            {
+              "id": 54,
+              "comment": "A classic done perfectly. Worth the time investment!",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 154
+            }
+          ],
+          "created_at": "2024/06/21",
+          "ingredients": [
+            {
+              "id": 131,
+              "name": "Beef chuck",
+              "img_url": "https://example.com/ingredients/beef-chuck.jpg",
+              "quantity": 1.5,
+              "unit": "kg"
+            },
+            {
+              "id": 132,
+              "name": "Bacon",
+              "img_url": "https://example.com/ingredients/bacon.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 133,
+              "name": "Red wine",
+              "img_url": "https://example.com/ingredients/red-wine.jpg",
+              "quantity": 750,
+              "unit": "ml"
+            },
+            {
+              "id": 134,
+              "name": "Pearl onions",
+              "img_url": "https://example.com/ingredients/pearl-onions.jpg",
+              "quantity": 250,
+              "unit": "g"
+            },
+            {
+              "id": 135,
+              "name": "Button mushrooms",
+              "img_url": "https://example.com/ingredients/button-mushrooms.jpg",
+              "quantity": 300,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Cut beef into 2-inch cubes and dry thoroughly.",
+            "In a large Dutch oven, cook diced bacon until crispy. Remove and set aside.",
+            "Brown beef cubes in batches in the bacon fat. Set aside.",
+            "In the same pot, saut\u00e9 chopped onions and carrots until softened.",
+            "Add beef and bacon back to the pot. Sprinkle with flour and toss.",
+            "Add wine, beef stock, tomato paste, garlic, and herbs. Bring to a simmer.",
+            "Cover and cook in a 325\u00b0F (165\u00b0C) oven for 2.5 to 3 hours.",
+            "While the beef is cooking, prepare pearl onions and saut\u00e9 mushrooms separately.",
+            "When the meat is tender, remove from oven, add pearl onions and mushrooms.",
+            "Adjust seasoning and serve hot with crusty bread or over mashed potatoes."
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Soupe \u00e0 l'Oignon",
+          "creator": {
+            "id": 28,
+            "name": "Paul Bocuse",
+            "img_url": "https://example.com/chefs/paul-bocuse.jpg",
+            "bio": "Legendary French chef, considered a pioneer of nouvelle cuisine",
+            "recipe_count": 189,
+            "total_reviews": 35600,
+            "avg_rating": 4.9,
+            "followers": 2100000,
+            "following": 12
+          },
+          "rating": 4.7,
+          "review_count": 2654,
+          "img_url": "https://example.com/recipes/soupe-a-loignon.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/soupe-a-loignon.mp4",
+            "total_length": 480000
+          },
+          "serving": 6,
+          "cooking_time": 5400,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 55,
+              "comment": "The perfect comfort food. Rich, flavorful, and satisfying!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 155
+            },
+            {
+              "id": 56,
+              "comment": "Love the cheesy crust on top. A new favorite winter dish!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 156
+            }
+          ],
+          "created_at": "2024/06/22",
+          "ingredients": [
+            {
+              "id": 136,
+              "name": "Onions",
+              "img_url": "https://example.com/ingredients/onions.jpg",
+              "quantity": 1.5,
+              "unit": "kg"
+            },
+            {
+              "id": 137,
+              "name": "Beef broth",
+              "img_url": "https://example.com/ingredients/beef-broth.jpg",
+              "quantity": 2,
+              "unit": "L"
+            },
+            {
+              "id": 138,
+              "name": "Baguette",
+              "img_url": "https://example.com/ingredients/baguette.jpg",
+              "quantity": 1,
+              "unit": "loaf"
+            },
+            {
+              "id": 139,
+              "name": "Gruy\u00e8re cheese",
+              "img_url": "https://example.com/ingredients/gruyere.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 140,
+              "name": "Dry white wine",
+              "img_url": "https://example.com/ingredients/white-wine.jpg",
+              "quantity": 250,
+              "unit": "ml"
+            }
+          ],
+          "instructions": [
+            "Thinly slice onions and cook in butter over low heat for 1 hour until caramelized.",
+            "Add flour and cook for 1 minute, then add wine and cook until evaporated.",
+            "Pour in beef broth and simmer for 30 minutes.",
+            "Toast baguette slices and rub with garlic.",
+            "Ladle soup into oven-safe bowls, top with toasted bread and grated Gruy\u00e8re.",
+            "Place under the broiler until cheese is melted and bubbly.",
+            "Serve hot, being careful of the hot bowls."
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Tarte Tatin",
+          "creator": {
+            "id": 29,
+            "name": "Dominique Ansel",
+            "img_url": "https://example.com/chefs/dominique-ansel.jpg",
+            "bio": "French-American pastry chef and owner of Dominique Ansel Bakery, creator of the Cronut",
+            "recipe_count": 156,
+            "total_reviews": 28900,
+            "avg_rating": 4.8,
+            "followers": 1900000,
+            "following": 87
+          },
+          "rating": 4.8,
+          "review_count": 2187,
+          "img_url": "https://example.com/recipes/tarte-tatin.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/tarte-tatin.mp4",
+            "total_length": 600000
+          },
+          "serving": 8,
+          "cooking_time": 3600,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 57,
+              "comment": "Perfectly caramelized apples and flaky crust. Delicious!",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 157
+            },
+            {
+              "id": 58,
+              "comment": "A show-stopping dessert that's easier to make than it looks.",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 158
+            }
+          ],
+          "created_at": "2024/06/23",
+          "ingredients": [
+            {
+              "id": 141,
+              "name": "Apples",
+              "img_url": "https://example.com/ingredients/apples.jpg",
+              "quantity": 8,
+              "unit": "medium"
+            },
+            {
+              "id": 142,
+              "name": "Sugar",
+              "img_url": "https://example.com/ingredients/sugar.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 143,
+              "name": "Butter",
+              "img_url": "https://example.com/ingredients/butter.jpg",
+              "quantity": 100,
+              "unit": "g"
+            },
+            {
+              "id": 144,
+              "name": "Puff pastry",
+              "img_url": "https://example.com/ingredients/puff-pastry.jpg",
+              "quantity": 1,
+              "unit": "sheet"
+            },
+            {
+              "id": 145,
+              "name": "Vanilla extract",
+              "img_url": "https://example.com/ingredients/vanilla-extract.jpg",
+              "quantity": 1,
+              "unit": "tsp"
+            }
+          ],
+          "instructions": [
+            "Peel, core, and quarter the apples.",
+            "In a 9-inch cast-iron skillet, melt butter and stir in sugar.",
+            "Arrange apple quarters in the skillet, rounded sides down.",
+            "Cook over medium heat until the sugar caramelizes and turns amber, about 15-20 minutes.",
+            "Preheat oven to 425\u00b0F (220\u00b0C).",
+            "Roll out puff pastry and place it over the apples, tucking the edges down into the pan.",
+            "Bake for 20-25 minutes until the pastry is golden brown.",
+            "Let cool for 10 minutes, then carefully invert onto a serving plate."
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Salade Ni\u00e7oise",
+          "creator": {
+            "id": 30,
+            "name": "H\u00e9l\u00e8ne Darroze",
+            "img_url": "https://example.com/chefs/helene-darroze.jpg",
+            "bio": "French chef and television personality, runs the two Michelin-starred restaurant H\u00e9l\u00e8ne Darroze at The Connaught in London",
+            "recipe_count": 178,
+            "total_reviews": 31200,
+            "avg_rating": 4.8,
+            "followers": 1700000,
+            "following": 93
+          },
+          "rating": 4.6,
+          "review_count": 1876,
+          "img_url": "https://example.com/recipes/salade-nicoise.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/salade-nicoise.mp4",
+            "total_length": 420000
+          },
+          "serving": 4,
+          "cooking_time": 1800,
+          "category": {
+            "id": 2,
+            "name": "French",
+            "img_url": "https://example.com/categories/french.jpg"
+          },
+          "reviews": [
+            {
+              "id": 59,
+              "comment": "Fresh, light, and full of flavor. Perfect summer meal!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 159
+            },
+            {
+              "id": 60,
+              "comment": "Loved the combination of ingredients. A satisfying salad!",
+              "rating": 4,
+              "created_at": "2024/10/15",
+              "user_id": 160
+            }
+          ],
+          "created_at": "2024/06/24",
+          "ingredients": [
+            {
+              "id": 146,
+              "name": "Tuna steaks",
+              "img_url": "https://example.com/ingredients/tuna-steaks.jpg",
+              "quantity": 400,
+              "unit": "g"
+            },
+            {
+              "id": 147,
+              "name": "Mixed salad greens",
+              "img_url": "https://example.com/ingredients/mixed-greens.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 148,
+              "name": "Cherry tomatoes",
+              "img_url": "https://example.com/ingredients/cherry-tomatoes.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 149,
+              "name": "Hard-boiled eggs",
+              "img_url": "https://example.com/ingredients/hard-boiled-eggs.jpg",
+              "quantity": 4,
+              "unit": "pieces"
+            },
+            {
+              "id": 150,
+              "name": "Ni\u00e7oise olives",
+              "img_url": "https://example.com/ingredients/nicoise-olives.jpg",
+              "quantity": 100,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Cook green beans in boiling salted water until tender-crisp, then shock in ice water.",
+            "Boil small potatoes until tender, then quarter them.",
+            "Sear tuna steaks in a hot pan for about 1 minute per side, then slice.",
+            "Arrange mixed greens on a large platter.",
+            "Top with green beans, potatoes, cherry tomatoes, hard-boiled egg quarters, and olives.",
+            "Arrange sliced tuna on top.",
+            "Drizzle with Dijon vinaigrette and garnish with anchovies if desired.",
+            "Serve immediately."
+          ]
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": 3,
+        "name": "Asian",
+        "img_url": "https://example.com/categories/asian.jpg"
+      },
+      "recipes": [
+        {
+          "id": 31,
+          "name": "Beef Pho",
+          "creator": {
+            "id": 31,
+            "name": "Luke Nguyen",
+            "img_url": "https://example.com/chefs/luke.jpg",
+            "bio": "Australian-Vietnamese chef known for his expertise in Vietnamese cuisine",
+            "recipe_count": 108,
+            "total_reviews": 20400,
+            "avg_rating": 4.8,
+            "followers": 1800000,
+            "following": 95
+          },
+          "rating": 4.9,
+          "review_count": 4231,
+          "img_url": "https://example.com/recipes/beef-pho.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/beef-pho.mp4",
+            "total_length": 900000
+          },
+          "serving": 6,
+          "cooking_time": 10800,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 61,
+              "comment": "Authentic taste, just like in Vietnam!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 161
+            },
+            {
+              "id": 62,
+              "comment": "The broth is incredibly flavorful. A new favorite!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 162
+            }
+          ],
+          "created_at": "2024/07/01",
+          "ingredients": [
+            {
+              "id": 151,
+              "name": "Beef bones",
+              "img_url": "https://example.com/ingredients/beef-bones.jpg",
+              "quantity": 2,
+              "unit": "kg"
+            },
+            {
+              "id": 152,
+              "name": "Rice noodles",
+              "img_url": "https://example.com/ingredients/rice-noodles.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 153,
+              "name": "Beef sirloin",
+              "img_url": "https://example.com/ingredients/beef-sirloin.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 154,
+              "name": "Bean sprouts",
+              "img_url": "https://example.com/ingredients/bean-sprouts.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 155,
+              "name": "Thai basil",
+              "img_url": "https://example.com/ingredients/thai-basil.jpg",
+              "quantity": 1,
+              "unit": "bunch"
+            }
+          ],
+          "instructions": [
+            "Roast beef bones, onions, and ginger in the oven until browned.",
+            "Transfer bones and vegetables to a large pot, add water and bring to a boil.",
+            "Reduce heat and simmer for 6-8 hours, skimming off any impurities.",
+            "Strain the broth and season with fish sauce, sugar, and salt.",
+            "Cook rice noodles according to package instructions.",
+            "Thinly slice the beef sirloin.",
+            "Assemble the pho: place noodles in a bowl, top with sliced beef and pour hot broth over.",
+            "Serve with bean sprouts, Thai basil, lime wedges, and hoisin sauce on the side."
+          ]
+        },
+        {
+          "id": 32,
+          "name": "Sushi Rolls",
+          "creator": {
+            "id": 32,
+            "name": "Masaharu Morimoto",
+            "img_url": "https://example.com/chefs/masaharu-morimoto.jpg",
+            "bio": "Japanese chef known for his innovative style of fusion cuisine",
+            "recipe_count": 187,
+            "total_reviews": 35600,
+            "avg_rating": 4.9,
+            "followers": 2800000,
+            "following": 43
+          },
+          "rating": 4.8,
+          "review_count": 3254,
+          "img_url": "https://example.com/recipes/sushi-rolls.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/sushi-rolls.mp4",
+            "total_length": 900000
+          },
+          "serving": 4,
+          "cooking_time": 3600,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 61,
+              "comment": "Great instructions, my first attempt at sushi was a success!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 161
+            },
+            {
+              "id": 62,
+              "comment": "Delicious and fun to make. Will definitely make again!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 162
+            }
+          ],
+          "created_at": "2024/07/01",
+          "ingredients": [
+            {
+              "id": 151,
+              "name": "Sushi rice",
+              "img_url": "https://example.com/ingredients/sushi-rice.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 152,
+              "name": "Nori sheets",
+              "img_url": "https://example.com/ingredients/nori.jpg",
+              "quantity": 10,
+              "unit": "sheets"
+            },
+            {
+              "id": 153,
+              "name": "Sushi-grade salmon",
+              "img_url": "https://example.com/ingredients/salmon.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 154,
+              "name": "Avocado",
+              "img_url": "https://example.com/ingredients/avocado.jpg",
+              "quantity": 2,
+              "unit": "pieces"
+            },
+            {
+              "id": 155,
+              "name": "Cucumber",
+              "img_url": "https://example.com/ingredients/cucumber.jpg",
+              "quantity": 1,
+              "unit": "piece"
+            }
+          ],
+          "instructions": [
+            "Cook sushi rice according to package instructions. Mix with seasoned rice vinegar.",
+            "Place a nori sheet on a bamboo mat, shiny side down.",
+            "Spread a thin layer of rice over the nori, leaving a 1-inch strip at the top.",
+            "Arrange strips of salmon, avocado, and cucumber in the center of the rice.",
+            "Using the mat, roll the sushi away from you, pressing gently to shape.",
+            "Moisten the bare strip of nori with water to seal the roll.",
+            "Use a sharp knife to cut the roll into 6-8 pieces.",
+            "Serve with soy sauce, wasabi, and pickled ginger."
+          ]
+        },
+        {
+          "id": 33,
+          "name": "Pad Thai",
+          "creator": {
+            "id": 33,
+            "name": "Jet Tila",
+            "img_url": "https://example.com/chefs/jet-tila.jpg",
+            "bio": "Thai-American chef known for his expertise in Pan-Asian cuisine",
+            "recipe_count": 156,
+            "total_reviews": 28900,
+            "avg_rating": 4.8,
+            "followers": 1900000,
+            "following": 87
+          },
+          "rating": 4.7,
+          "review_count": 2987,
+          "img_url": "https://example.com/recipes/pad-thai.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/pad-thai.mp4",
+            "total_length": 720000
+          },
+          "serving": 4,
+          "cooking_time": 1800,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 63,
+              "comment": "Authentic taste, better than takeout!",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 163
+            },
+            {
+              "id": 64,
+              "comment": "Perfect balance of sweet, sour, and spicy.",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 164
+            }
+          ],
+          "created_at": "2024/07/02",
+          "ingredients": [
+            {
+              "id": 156,
+              "name": "Rice noodles",
+              "img_url": "https://example.com/ingredients/rice-noodles.jpg",
+              "quantity": 250,
+              "unit": "g"
+            },
+            {
+              "id": 157,
+              "name": "Tofu",
+              "img_url": "https://example.com/ingredients/tofu.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 158,
+              "name": "Bean sprouts",
+              "img_url": "https://example.com/ingredients/bean-sprouts.jpg",
+              "quantity": 100,
+              "unit": "g"
+            },
+            {
+              "id": 159,
+              "name": "Tamarind paste",
+              "img_url": "https://example.com/ingredients/tamarind-paste.jpg",
+              "quantity": 2,
+              "unit": "tbsp"
+            },
+            {
+              "id": 160,
+              "name": "Fish sauce",
+              "img_url": "https://example.com/ingredients/fish-sauce.jpg",
+              "quantity": 2,
+              "unit": "tbsp"
+            }
+          ],
+          "instructions": [
+            "Soak rice noodles in warm water for 30 minutes, then drain.",
+            "Mix tamarind paste, fish sauce, palm sugar, and chili flakes for the sauce.",
+            "Heat oil in a wok over high heat. Add minced garlic and stir-fry until fragrant.",
+            "Add cubed tofu and cook until golden brown.",
+            "Push ingredients to one side, crack an egg into the empty space and scramble.",
+            "Add drained noodles and prepared sauce. Toss everything together.",
+            "Add bean sprouts and chopped green onions. Stir-fry for another minute.",
+            "Serve hot, garnished with crushed peanuts, lime wedges, and extra bean sprouts."
+          ]
+        },
+        {
+          "id": 34,
+          "name": "Beef Pho",
+          "creator": {
+            "id": 34,
+            "name": "Andrea Nguyen",
+            "img_url": "https://example.com/chefs/andrea-nguyen.jpg",
+            "bio": "Vietnamese-American chef, teacher and award-winning cookbook author",
+            "recipe_count": 132,
+            "total_reviews": 24600,
+            "avg_rating": 4.8,
+            "followers": 1600000,
+            "following": 72
+          },
+          "rating": 4.9,
+          "review_count": 3421,
+          "img_url": "https://example.com/recipes/beef-pho.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/beef-pho.mp4",
+            "total_length": 1080000
+          },
+          "serving": 6,
+          "cooking_time": 10800,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 65,
+              "comment": "Amazing depth of flavor. Worth the time investment!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 165
+            },
+            {
+              "id": 66,
+              "comment": "Tastes just like the pho from my favorite Vietnamese restaurant.",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 166
+            }
+          ],
+          "created_at": "2024/07/03",
+          "ingredients": [
+            {
+              "id": 161,
+              "name": "Beef bones",
+              "img_url": "https://example.com/ingredients/beef-bones.jpg",
+              "quantity": 2,
+              "unit": "kg"
+            },
+            {
+              "id": 162,
+              "name": "Rice noodles",
+              "img_url": "https://example.com/ingredients/rice-noodles.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 163,
+              "name": "Beef sirloin",
+              "img_url": "https://example.com/ingredients/beef-sirloin.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 164,
+              "name": "Bean sprouts",
+              "img_url": "https://example.com/ingredients/bean-sprouts.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 165,
+              "name": "Thai basil",
+              "img_url": "https://example.com/ingredients/thai-basil.jpg",
+              "quantity": 1,
+              "unit": "bunch"
+            }
+          ],
+          "instructions": [
+            "Roast beef bones, onions, and ginger in the oven until browned.",
+            "Transfer bones and vegetables to a large pot, add water and bring to a boil.",
+            "Reduce heat and simmer for 6-8 hours, skimming off any impurities.",
+            "Strain the broth and season with fish sauce, sugar, and salt.",
+            "Cook rice noodles according to package instructions.",
+            "Thinly slice the beef sirloin.",
+            "Assemble the pho: place noodles in a bowl, top with sliced beef and pour hot broth over.",
+            "Serve with bean sprouts, Thai basil, lime wedges, and hoisin sauce on the side."
+          ]
+        },
+        {
+          "id": 35,
+          "name": "Chicken Tikka Masala",
+          "creator": {
+            "id": 35,
+            "name": "Madhur Jaffrey",
+            "img_url": "https://example.com/chefs/madhur-jaffrey.jpg",
+            "bio": "Indian actress, food and travel writer, and television personality",
+            "recipe_count": 178,
+            "total_reviews": 31200,
+            "avg_rating": 4.9,
+            "followers": 2200000,
+            "following": 38
+          },
+          "rating": 4.8,
+          "review_count": 3102,
+          "img_url": "https://example.com/recipes/chicken-tikka-masala.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/chicken-tikka-masala.mp4",
+            "total_length": 840000
+          },
+          "serving": 6,
+          "cooking_time": 3600,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 67,
+              "comment": "Absolutely delicious! Better than any restaurant version I've had.",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 167
+            },
+            {
+              "id": 68,
+              "comment": "Rich, creamy, and full of flavor. A new family favorite!",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 168
+            }
+          ],
+          "created_at": "2024/07/04",
+          "ingredients": [
+            {
+              "id": 166,
+              "name": "Chicken thighs",
+              "img_url": "https://example.com/ingredients/chicken-thighs.jpg",
+              "quantity": 1,
+              "unit": "kg"
+            },
+            {
+              "id": 167,
+              "name": "Greek yogurt",
+              "img_url": "https://example.com/ingredients/greek-yogurt.jpg",
+              "quantity": 250,
+              "unit": "g"
+            },
+            {
+              "id": 168,
+              "name": "Garam masala",
+              "img_url": "https://example.com/ingredients/garam-masala.jpg",
+              "quantity": 2,
+              "unit": "tbsp"
+            },
+            {
+              "id": 169,
+              "name": "Canned tomatoes",
+              "img_url": "https://example.com/ingredients/canned-tomatoes.jpg",
+              "quantity": 800,
+              "unit": "g"
+            },
+            {
+              "id": 170,
+              "name": "Heavy cream",
+              "img_url": "https://example.com/ingredients/heavy-cream.jpg",
+              "quantity": 250,
+              "unit": "ml"
+            }
+          ],
+          "instructions": [
+            "Marinate chicken in yogurt, lemon juice, and spices for at least 2 hours.",
+            "Grill or broil the marinated chicken until charred and cooked through.",
+            "In a large pan, saut\u00e9 onions until golden brown.",
+            "Add garlic, ginger, and spices, cook until fragrant.",
+            "Stir in canned tomatoes and simmer for 15 minutes.",
+            "Add grilled chicken and cream. Simmer for another 10 minutes.",
+            "Garnish with fresh cilantro and serve with naan bread or rice."
+          ]
+        },
+        {
+          "id": 36,
+          "name": "Dim Sum Platter",
+          "creator": {
+            "id": 36,
+            "name": "Ken Hom",
+            "img_url": "https://example.com/chefs/ken-hom.jpg",
+            "bio": "American chef, author and television-show presenter, known for his expertise in Chinese cuisine",
+            "recipe_count": 156,
+            "total_reviews": 28900,
+            "avg_rating": 4.8,
+            "followers": 1800000,
+            "following": 65
+          },
+          "rating": 4.7,
+          "review_count": 2654,
+          "img_url": "https://example.com/recipes/dim-sum-platter.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/dim-sum-platter.mp4",
+            "total_length": 1200000
+          },
+          "serving": 6,
+          "cooking_time": 7200,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 69,
+              "comment": "Impressive variety and flavors. Felt like I was at a Chinese restaurant!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 169
+            },
+            {
+              "id": 70,
+              "comment": "Time-consuming but worth the effort. A great weekend project!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 170
+            }
+          ],
+          "created_at": "2024/07/05",
+          "ingredients": [
+            {
+              "id": 171,
+              "name": "Shrimp",
+              "img_url": "https://example.com/ingredients/shrimp.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 172,
+              "name": "Ground pork",
+              "img_url": "https://example.com/ingredients/ground-pork.jpg",
+              "quantity": 300,
+              "unit": "g"
+            },
+            {
+              "id": 173,
+              "name": "Wonton wrappers",
+              "img_url": "https://example.com/ingredients/wonton-wrappers.jpg",
+              "quantity": 50,
+              "unit": "pieces"
+            },
+            {
+              "id": 174,
+              "name": "Shiitake mushrooms",
+              "img_url": "https://example.com/ingredients/shiitake-mushrooms.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 175,
+              "name": "Bok choy",
+              "img_url": "https://example.com/ingredients/bok-choy.jpg",
+              "quantity": 300,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Prepare shrimp dumplings: Mix chopped shrimp with seasonings, wrap in wonton skins.",
+            "Make pork siu mai: Combine ground pork with mushrooms and wrap in wonton skins, leaving the top open.",
+            "Prepare steamed bok choy with oyster sauce.",
+            "Steam dumplings and siu mai for 6-8 minutes until cooked through.",
+            "Steam bok choy for 3-4 minutes until tender-crisp.",
+            "Prepare dipping sauces: soy sauce, chili oil, and black vinegar.",
+            "Arrange all items on a platter and serve hot with dipping sauces."
+          ]
+        },
+        {
+          "id": 37,
+          "name": "Korean Bibimbap",
+          "creator": {
+            "id": 37,
+            "name": "Maangchi",
+            "img_url": "https://example.com/chefs/maangchi.jpg",
+            "bio": "Korean-American YouTuber and author, known for her popular Korean cooking videos",
+            "recipe_count": 189,
+            "total_reviews": 35600,
+            "avg_rating": 4.9,
+            "followers": 2500000,
+            "following": 112
+          },
+          "rating": 4.8,
+          "review_count": 3876,
+          "img_url": "https://example.com/recipes/bibimbap.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/bibimbap.mp4",
+            "total_length": 900000
+          },
+          "serving": 4,
+          "cooking_time": 3600,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 71,
+              "comment": "So colorful and delicious! Love the variety of vegetables.",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 171
+            },
+            {
+              "id": 72,
+              "comment": "The gochujang sauce really ties everything together. Yum!",
+              "rating": 5,
+              "created_at": "2024/10/13",
+              "user_id": 172
+            }
+          ],
+          "created_at": "2024/07/06",
+          "ingredients": [
+            {
+              "id": 176,
+              "name": "Short grain rice",
+              "img_url": "https://example.com/ingredients/short-grain-rice.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 177,
+              "name": "Gochujang",
+              "img_url": "https://example.com/ingredients/gochujang.jpg",
+              "quantity": 4,
+              "unit": "tbsp"
+            },
+            {
+              "id": 178,
+              "name": "Assorted vegetables (spinach, carrots, zucchini)",
+              "img_url": "https://example.com/ingredients/assorted-vegetables.jpg",
+              "quantity": 600,
+              "unit": "g"
+            },
+            {
+              "id": 179,
+              "name": "Beef sirloin",
+              "img_url": "https://example.com/ingredients/beef-sirloin.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 180,
+              "name": "Eggs",
+              "img_url": "https://example.com/ingredients/eggs.jpg",
+              "quantity": 4,
+              "unit": "pieces"
+            }
+          ],
+          "instructions": [
+            "Cook rice according to package instructions.",
+            "Prepare vegetables: Blanch spinach, julienne and saut\u00e9 carrots and zucchini.",
+            "Marinate beef in soy sauce and sesame oil, then stir-fry.",
+            "Fry eggs sunny-side up.",
+            "Mix gochujang with sesame oil and sugar to make the sauce.",
+            "Assemble bibimbap: Place rice in bowls, arrange vegetables and beef on top.",
+            "Add a fried egg to each bowl and serve with gochujang sauce."
+          ]
+        },
+        {
+          "id": 38,
+          "name": "Tom Yum Goong",
+          "creator": {
+            "id": 38,
+            "name": "Pailin Chongchitnant",
+            "img_url": "https://example.com/chefs/pailin-chongchitnant.jpg",
+            "bio": "Thai chef, author and YouTuber known for her channel 'Pailin's Kitchen'",
+            "recipe_count": 167,
+            "total_reviews": 29800,
+            "avg_rating": 4.8,
+            "followers": 1700000,
+            "following": 93
+          },
+          "rating": 4.9,
+          "review_count": 3254,
+          "img_url": "https://example.com/recipes/tom-yum-goong.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/tom-yum-goong.mp4",
+            "total_length": 780000
+          },
+          "serving": 4,
+          "cooking_time": 1800,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 73,
+              "comment": "Perfectly balanced hot and sour flavors. So comforting!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 173
+            },
+            {
+              "id": 74,
+              "comment": "Tastes just like the soup I had in Thailand. Amazing recipe!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 174
+            }
+          ],
+          "created_at": "2024/07/07",
+          "ingredients": [
+            {
+              "id": 181,
+              "name": "Shrimp",
+              "img_url": "https://example.com/ingredients/shrimp.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 182,
+              "name": "Lemongrass",
+              "img_url": "https://example.com/ingredients/lemongrass.jpg",
+              "quantity": 2,
+              "unit": "stalks"
+            },
+            {
+              "id": 183,
+              "name": "Kaffir lime leaves",
+              "img_url": "https://example.com/ingredients/kaffir-lime-leaves.jpg",
+              "quantity": 4,
+              "unit": "pieces"
+            },
+            {
+              "id": 184,
+              "name": "Bird's eye chilies",
+              "img_url": "https://example.com/ingredients/birds-eye-chilies.jpg",
+              "quantity": 3,
+              "unit": "pieces"
+            },
+            {
+              "id": 185,
+              "name": "Mushrooms",
+              "img_url": "https://example.com/ingredients/mushrooms.jpg",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "instructions": [
+            "Bring water to a boil in a pot. Add lemongrass, galangal, and kaffir lime leaves.",
+            "Add mushrooms and cook for a few minutes.",
+            "Add shrimp and cook until they turn pink.",
+            "Season with fish sauce, lime juice, and chili paste to taste.",
+            "Add a splash of evaporated milk for a creamy version (optional).",
+            "Garnish with cilantro and serve hot."
+          ]
+        },
+        {
+          "id": 39,
+          "name": "Vegetable Tempura",
+          "creator": {
+            "id": 39,
+            "name": "Rika Yukimasa",
+            "img_url": "https://example.com/chefs/rika-yukimasa.jpg",
+            "bio": "Japanese chef and TV personality, known for her show 'Dining with the Chef'",
+            "recipe_count": 145,
+            "total_reviews": 26400,
+            "avg_rating": 4.7,
+            "followers": 1500000,
+            "following": 78
+          },
+          "rating": 4.6,
+          "review_count": 2134,
+          "img_url": "https://example.com/recipes/vegetable-tempura.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/vegetable-tempura.mp4",
+            "total_length": 720000
+          },
+          "serving": 4,
+          "cooking_time": 2400,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 75,
+              "comment": "Crispy, light, and not greasy at all. Perfect tempura!",
+              "rating": 5,
+              "created_at": "2024/10/14",
+              "user_id": 175
+            },
+            {
+              "id": 76,
+              "comment": "The dipping sauce is a game-changer. Loved it!",
+              "rating": 4,
+              "created_at": "2024/10/13",
+              "user_id": 176
+            }
+          ],
+          "created_at": "2024/07/08",
+          "ingredients": [
+            {
+              "id": 186,
+              "name": "Assorted vegetables (sweet potato, eggplant, bell pepper)",
+              "img_url": "https://example.com/ingredients/assorted-vegetables.jpg",
+              "quantity": 600,
+              "unit": "g"
+            },
+            {
+              "id": 187,
+              "name": "All-purpose flour",
+              "img_url": "https://example.com/ingredients/all-purpose-flour.jpg",
+              "quantity": 200,
+              "unit": "g"
+            },
+            {
+              "id": 188,
+              "name": "Ice-cold water",
+              "img_url": "https://example.com/ingredients/water.jpg",
+              "quantity": 200,
+              "unit": "ml"
+            },
+            {
+              "id": 189,
+              "name": "Egg",
+              "img_url": "https://example.com/ingredients/egg.jpg",
+              "quantity": 1,
+              "unit": "piece"
+            },
+            {
+              "id": 190,
+              "name": "Vegetable oil for frying",
+              "img_url": "https://example.com/ingredients/vegetable-oil.jpg",
+              "quantity": 1,
+              "unit": "L"
+            }
+          ],
+          "instructions": [
+            "Prepare vegetables: cut into bite-sized pieces.",
+            "Make tempura batter: lightly beat egg with ice-cold water, then add flour and mix lightly (leave lumps).",
+            "Heat oil in a deep fryer or heavy pot to 340-350\u00b0F (170-175\u00b0C).",
+            "Dip vegetables in batter and fry in batches until golden and crispy.",
+            "Drain on paper towels.",
+            "Serve immediately with tempura dipping sauce (tentsuyu)."
+          ]
+        },
+        {
+          "id": 40,
+          "name": "Kung Pao Chicken",
+          "creator": {
+            "id": 40,
+            "name": "Martin Yan",
+            "img_url": "https://example.com/chefs/martin-yan.jpg",
+            "bio": "Chinese-American chef, food writer, and host of the TV show 'Yan Can Cook'",
+            "recipe_count": 203,
+            "total_reviews": 38600,
+            "avg_rating": 4.8,
+            "followers": 2000000,
+            "following": 56
+          },
+          "rating": 4.7,
+          "review_count": 2876,
+          "img_url": "https://example.com/recipes/kung-pao-chicken.jpg",
+          "video": {
+            "video_url": "https://example.com/videos/kung-pao-chicken.mp4",
+            "total_length": 660000
+          },
+          "serving": 4,
+          "cooking_time": 1800,
+          "category": {
+            "id": 3,
+            "name": "Asian",
+            "img_url": "https://example.com/categories/asian.jpg"
+          },
+          "reviews": [
+            {
+              "id": 77,
+              "comment": "Spicy, savory, and absolutely delicious. Better than takeout!",
+              "rating": 5,
+              "created_at": "2024/10/16",
+              "user_id": 177
+            },
+            {
+              "id": 78,
+              "comment": "The perfect balance of heat and flavor. Will make again!",
+              "rating": 5,
+              "created_at": "2024/10/15",
+              "user_id": 178
+            }
+          ],
+          "created_at": "2024/07/09",
+          "ingredients": [
+            {
+              "id": 191,
+              "name": "Chicken breast",
+              "img_url": "https://example.com/ingredients/chicken-breast.jpg",
+              "quantity": 500,
+              "unit": "g"
+            },
+            {
+              "id": 192,
+              "name": "Peanuts",
+              "img_url": "https://example.com/ingredients/peanuts.jpg",
+              "quantity": 100,
+              "unit": "g"
+            },
+            {
+              "id": 193,
+              "name": "Dried red chilies",
+              "img_url": "https://example.com/ingredients/dried-red-chilies.jpg",
+              "quantity": 10,
+              "unit": "pieces"
+            },
+            {
+              "id": 194,
+              "name": "Sichuan peppercorns",
+              "img_url": "https://example.com/ingredients/sichuan-peppercorns.jpg",
+              "quantity": 1,
+              "unit": "tsp"
+            },
+            {
+              "id": 195,
+              "name": "Green onions",
+              "img_url": "https://example.com/ingredients/green-onions.jpg",
+              "quantity": 4,
+              "unit": "stalks"
+            }
+          ],
+          "instructions": [
+            "Cut chicken into small cubes and marinate with soy sauce, rice wine, and cornstarch.",
+            "Mix sauce ingredients: soy sauce, vinegar, sugar, and cornstarch.",
+            "Heat oil in a wok. Fry peanuts until golden, remove and set aside.",
+            "In the same oil, fry dried chilies and Sichuan peppercorns until fragrant.",
+            "Add chicken and stir-fry until nearly cooked through.",
+            "Add sauce mixture and stir until chicken is coated and sauce thickens.",
+            "Toss in peanuts and chopped green onions.",
+            "Serve hot with steamed rice."
+          ]
+        }
+      ]
+    }
+  ]
+}

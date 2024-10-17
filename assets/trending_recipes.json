@@ -1,0 +1,934 @@
+{
+  "status": 200,
+  "trending": [
+    {
+      "id": 1,
+      "name": "Classic Margherita Pizza",
+      "creator": {
+        "id": 1,
+        "name": "Giada De Laurentiis",
+        "img_url": "https://cdn.pixabay.com/photo/2023/11/27/20/29/autumn-8416137_960_720.png",
+        "bio": "Italian-American chef, known for simple, fresh Italian cuisine",
+        "recipe_count": 87,
+        "total_reviews": 15420,
+        "avg_rating": 4.8,
+        "followers": 2300000,
+        "following": 156
+      },
+      "rating": 4.9,
+      "review_count": 3254,
+      "img_url": "https://images.pexels.com/photos/19239118/pexels-photo-19239118/free-photo-of-fresh-pepperoni-sausage-pizza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "video": {
+        "video_url": "https://www.youtube.com/watch?v=8wiLLxNcZuw",
+        "total_length": 420000
+      },
+      "serving": 4,
+      "cooking_time": 1800,
+      "category": {
+        "id": 1,
+        "name": "Italian",
+        "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "comment": "Simple and delicious!",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 101
+        },
+        {
+          "id": 2,
+          "comment": "Perfect crust, will make again.",
+          "rating": 5,
+          "created_at": "2024/10/14",
+          "user_id": 102
+        }
+      ],
+      "created_at": "2024/01/01",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Pizza dough",
+          "img_url": "https://www.allrecipes.com/recipe/20171/quick-and-easy-pizza-crust/",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": 2,
+          "name": "San Marzano tomatoes",
+          "img_url": "https://cdn.pixabay.com/photo/2012/04/15/20/53/cherries-35288_960_720.png",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "id": 3,
+          "name": "Fresh mozzarella",
+          "img_url": "https://cdn.pixabay.com/photo/2012/04/15/20/53/cherries-35288_960_720.png",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 4,
+          "name": "Fresh basil leaves",
+          "img_url": "https://cdn.pixabay.com/photo/2012/04/15/20/53/cherries-35288_960_720.png",
+          "quantity": 10,
+          "unit": "leaves"
+        },
+        {
+          "id": 5,
+          "name": "Extra virgin olive oil",
+          "img_url": "https://cdn.pixabay.com/photo/2012/04/15/20/53/cherries-35288_960_720.png",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Preheat your oven to 450\u00b0F (230\u00b0C) with a pizza stone inside.",
+        "Roll out the pizza dough on a floured surface.",
+        "Spread crushed tomatoes over the dough, leaving a border for the crust.",
+        "Top with torn pieces of fresh mozzarella.",
+        "Bake for 10-12 minutes until the crust is golden and cheese is bubbling.",
+        "Remove from oven, top with fresh basil leaves and a drizzle of olive oil.",
+        "Slice and serve immediately."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Creamy Garlic Parmesan Risotto",
+      "creator": {
+        "id": 2,
+        "name": "Gordon Ramsay",
+        "img_url": "https://example.com/chefs/gordon.jpg",
+        "bio": "Multi-Michelin starred chef known for his fiery temper and exquisite cuisine",
+        "recipe_count": 152,
+        "total_reviews": 28750,
+        "avg_rating": 4.9,
+        "followers": 5600000,
+        "following": 82
+      },
+      "rating": 4.8,
+      "review_count": 2187,
+      "img_url": "https://example.com/recipes/garlic-parmesan-risotto.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/garlic-parmesan-risotto.mp4",
+        "total_length": 540000
+      },
+      "serving": 4,
+      "cooking_time": 2400,
+      "category": {
+        "id": 1,
+        "name": "Italian",
+        "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+      },
+      "reviews": [
+        {
+          "id": 3,
+          "comment": "Creamy and indulgent, worth the effort!",
+          "rating": 5,
+          "created_at": "2024/10/16",
+          "user_id": 103
+        },
+        {
+          "id": 4,
+          "comment": "Restaurant quality at home.",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 104
+        }
+      ],
+      "created_at": "2024/01/15",
+      "ingredients": [
+        {
+          "id": 6,
+          "name": "Arborio rice",
+          "img_url": "https://example.com/ingredients/arborio-rice.jpg",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": 7,
+          "name": "Chicken broth",
+          "img_url": "https://example.com/ingredients/chicken-broth.jpg",
+          "quantity": 1,
+          "unit": "L"
+        },
+        {
+          "id": 8,
+          "name": "Parmesan cheese",
+          "img_url": "https://example.com/ingredients/parmesan.jpg",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 9,
+          "name": "Garlic cloves",
+          "img_url": "https://example.com/ingredients/garlic.jpg",
+          "quantity": 4,
+          "unit": "cloves"
+        },
+        {
+          "id": 10,
+          "name": "White wine",
+          "img_url": "https://example.com/ingredients/white-wine.jpg",
+          "quantity": 120,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "In a saucepan, heat the chicken broth and keep it simmering.",
+        "In another pan, saut\u00e9 minced garlic in olive oil until fragrant.",
+        "Add Arborio rice and toast for 1-2 minutes.",
+        "Pour in white wine and stir until absorbed.",
+        "Gradually add hot broth, stirring constantly, waiting for each addition to be absorbed before adding more.",
+        "After about 18-20 minutes, when rice is creamy and al dente, remove from heat.",
+        "Stir in grated Parmesan cheese and a knob of butter.",
+        "Season with salt and pepper, and serve immediately."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Beef Bourguignon",
+      "creator": {
+        "id": 3,
+        "name": "Julia Child",
+        "img_url": "https://www.pbs.org/food/chefs/julia-child/",
+        "bio": "Legendary American chef who brought French cuisine to the American public",
+        "recipe_count": 73,
+        "total_reviews": 18960,
+        "avg_rating": 4.9,
+        "followers": 1800000,
+        "following": 0
+      },
+      "rating": 4.9,
+      "review_count": 4521,
+      "img_url": "https://example.com/recipes/beef-bourguignon.jpg",
+      "video": {
+        "video_url": "https://www.youtube.com/watch?v=kxJEX0RW3Jg",
+        "total_length": 720000
+      },
+      "serving": 6,
+      "cooking_time": 10800,
+      "category": {
+        "id": 2,
+        "name": "French",
+        "img_url": "https://example.com/categories/french.jpg"
+      },
+      "reviews": [
+        {
+          "id": 5,
+          "comment": "A classic done perfectly. Time-consuming but worth it!",
+          "rating": 5,
+          "created_at": "2024/10/14",
+          "user_id": 105
+        },
+        {
+          "id": 6,
+          "comment": "The flavors are incredible. My new favorite stew recipe.",
+          "rating": 5,
+          "created_at": "2024/10/13",
+          "user_id": 106
+        }
+      ],
+      "created_at": "2024/02/01",
+      "ingredients": [
+        {
+          "id": 11,
+          "name": "Beef chuck",
+          "img_url": "https://example.com/ingredients/beef-chuck.jpg",
+          "quantity": 1,
+          "unit": "kg"
+        },
+        {
+          "id": 12,
+          "name": "Bacon",
+          "img_url": "https://example.com/ingredients/bacon.jpg",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 13,
+          "name": "Red wine",
+          "img_url": "https://example.com/ingredients/red-wine.jpg",
+          "quantity": 750,
+          "unit": "ml"
+        },
+        {
+          "id": 14,
+          "name": "Pearl onions",
+          "img_url": "https://example.com/ingredients/pearl-onions.jpg",
+          "quantity": 20,
+          "unit": "pieces"
+        },
+        {
+          "id": 15,
+          "name": "Mushrooms",
+          "img_url": "https://example.com/ingredients/mushrooms.jpg",
+          "quantity": 500,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Cut beef into 2-inch cubes and dry thoroughly with paper towels.",
+        "In a large Dutch oven, cook diced bacon until crispy. Remove and set aside.",
+        "Brown beef cubes in batches in the bacon fat. Set aside.",
+        "In the same pot, saut\u00e9 chopped onions and carrots until softened.",
+        "Add beef and bacon back to the pot. Sprinkle with flour and toss.",
+        "Add red wine, beef stock, tomato paste, garlic, and herbs. Bring to a simmer.",
+        "Cover and cook in a 325\u00b0F (165\u00b0C) oven for 2.5 to 3 hours.",
+        "While the beef is cooking, prepare pearl onions and saut\u00e9 mushrooms separately.",
+        "When the meat is tender, remove from oven, add pearl onions and mushrooms.",
+        "Adjust seasoning and serve hot with crusty bread or over mashed potatoes."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Spicy Pad Thai",
+      "creator": {
+        "id": 4,
+        "name": "Jet Tila",
+        "img_url": "https://example.com/chefs/jet.jpg",
+        "bio": "Thai-American chef known for his expertise in Pan-Asian cuisine",
+        "recipe_count": 68,
+        "total_reviews": 9870,
+        "avg_rating": 4.7,
+        "followers": 980000,
+        "following": 215
+      },
+      "rating": 4.7,
+      "review_count": 1876,
+      "img_url": "https://example.com/recipes/spicy-pad-thai.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/spicy-pad-thai.mp4",
+        "total_length": 480000
+      },
+      "serving": 4,
+      "cooking_time": 1800,
+      "category": {
+        "id": 3,
+        "name": "Thai",
+        "img_url": "https://example.com/categories/thai.jpg"
+      },
+      "reviews": [
+        {
+          "id": 7,
+          "comment": "Authentic taste, better than takeout!",
+          "rating": 5,
+          "created_at": "2024/10/16",
+          "user_id": 107
+        },
+        {
+          "id": 8,
+          "comment": "Perfect balance of sweet, sour, and spicy.",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 108
+        }
+      ],
+      "created_at": "2024/02/15",
+      "ingredients": [
+        {
+          "id": 16,
+          "name": "Rice noodles",
+          "img_url": "https://example.com/ingredients/rice-noodles.jpg",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "id": 17,
+          "name": "Tofu",
+          "img_url": "https://example.com/ingredients/tofu.jpg",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": 18,
+          "name": "Bean sprouts",
+          "img_url": "https://example.com/ingredients/bean-sprouts.jpg",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": 19,
+          "name": "Tamarind paste",
+          "img_url": "https://example.com/ingredients/tamarind-paste.jpg",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": 20,
+          "name": "Fish sauce",
+          "img_url": "https://example.com/ingredients/fish-sauce.jpg",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Soak rice noodles in warm water for 30 minutes, then drain.",
+        "Mix tamarind paste, fish sauce, palm sugar, and chili flakes for the sauce.",
+        "Heat oil in a wok over high heat. Add minced garlic and stir-fry until fragrant.",
+        "Add cubed tofu and cook until golden brown.",
+        "Push ingredients to one side, crack an egg into the empty space and scramble.",
+        "Add drained noodles and prepared sauce. Toss everything together.",
+        "Add bean sprouts and chopped green onions. Stir-fry for another minute.",
+        "Serve hot, garnished with crushed peanuts, lime wedges, and extra bean sprouts."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Classic Beef Lasagna",
+      "creator": {
+        "id": 5,
+        "name": "Lidia Bastianich",
+        "img_url": "https://example.com/chefs/lidia.jpg",
+        "bio": "Italian-American chef, TV host, and author specializing in Italian cuisine",
+        "recipe_count": 95,
+        "total_reviews": 17650,
+        "avg_rating": 4.8,
+        "followers": 1500000,
+        "following": 78
+      },
+      "rating": 4.8,
+      "review_count": 3102,
+      "img_url": "https://example.com/recipes/beef-lasagna.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/beef-lasagna.mp4",
+        "total_length": 600000
+      },
+      "serving": 8,
+      "cooking_time": 5400,
+      "category": {
+        "id": 1,
+        "name": "Italian",
+        "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+      },
+      "reviews": [
+        {
+          "id": 9,
+          "comment": "Absolutely delicious! The best lasagna I've ever made.",
+          "rating": 5,
+          "created_at": "2024/10/14",
+          "user_id": 109
+        },
+        {
+          "id": 10,
+          "comment": "Perfect comfort food. My family loved it!",
+          "rating": 5,
+          "created_at": "2024/10/13",
+          "user_id": 110
+        }
+      ],
+      "created_at": "2024/03/01",
+      "ingredients": [
+        {
+          "id": 21,
+          "name": "Ground beef",
+          "img_url": "https://example.com/ingredients/ground-beef.jpg",
+          "quantity": 1,
+          "unit": "kg"
+        },
+        {
+          "id": 22,
+          "name": "Lasagna noodles",
+          "img_url": "https://example.com/ingredients/lasagna-noodles.jpg",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": 23,
+          "name": "Ricotta cheese",
+          "img_url": "https://example.com/ingredients/ricotta.jpg",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": 24,
+          "name": "Mozzarella cheese",
+          "img_url": "https://example.com/ingredients/mozzarella.jpg",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "id": 25,
+          "name": "Tomato sauce",
+          "img_url": "https://example.com/ingredients/tomato-sauce.jpg",
+          "quantity": 1,
+          "unit": "L"
+        }
+      ],
+      "instructions": [
+        "Brown ground beef in a large skillet. Add onions and garlic, cook until softened.",
+        "Stir in tomato sauce and seasonings. Simmer for 30 minutes.",
+        "Mix ricotta cheese with eggs and parsley in a bowl.",
+        "Preheat oven to 375\u00b0F (190\u00b0C).",
+        "In a 9x13 inch baking dish, layer sauce, noodles, ricotta mixture, and mozzarella.",
+        "Repeat layers, ending with mozzarella and Parmesan on top.",
+        "Cover with foil and bake for 25 minutes. Uncover and bake for another 25 minutes.",
+        "Let stand for 15 minutes before serving."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Homemade Sushi Rolls",
+      "creator": {
+        "id": 6,
+        "name": "Masaharu Morimoto",
+        "img_url": "https://example.com/chefs/morimoto.jpg",
+        "bio": "Japanese chef known for his innovative style of fusion cuisine",
+        "recipe_count": 112,
+        "total_reviews": 21450,
+        "avg_rating": 4.9,
+        "followers": 3200000,
+        "following": 52
+      },
+      "rating": 4.7,
+      "review_count": 2876,
+      "img_url": "https://example.com/recipes/sushi-rolls.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/sushi-rolls.mp4",
+        "total_length": 900000
+      },
+      "serving": 4,
+      "cooking_time": 3600,
+      "category": {
+        "id": 4,
+        "name": "Japanese",
+        "img_url": "https://example.com/categories/japanese.jpg"
+      },
+      "reviews": [
+        {
+          "id": 11,
+          "comment": "Great instructions, my first attempt at sushi was a success!",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 111
+        },
+        {
+          "id": 12,
+          "comment": "Delicious and fun to make. Will definitely make again!",
+          "rating": 5,
+          "created_at": "2024/10/14",
+          "user_id": 112
+        }
+      ],
+      "created_at": "2024/03/15",
+      "ingredients": [
+        {
+          "id": 26,
+          "name": "Sushi rice",
+          "img_url": "https://example.com/ingredients/sushi-rice.jpg",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": 27,
+          "name": "Nori sheets",
+          "img_url": "https://example.com/ingredients/nori.jpg",
+          "quantity": 10,
+          "unit": "sheets"
+        },
+        {
+          "id": 28,
+          "name": "Sushi-grade salmon",
+          "img_url": "https://example.com/ingredients/salmon.jpg",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": 29,
+          "name": "Avocado",
+          "img_url": "https://example.com/ingredients/avocado.jpg",
+          "quantity": 2,
+          "unit": "pieces"
+        },
+        {
+          "id": 30,
+          "name": "Cucumber",
+          "img_url": "https://example.com/ingredients/cucumber.jpg",
+          "quantity": 1,
+          "unit": "piece"
+        }
+      ],
+      "instructions": [
+        "Cook sushi rice according to package instructions. Mix with seasoned rice vinegar.",
+        "Place a nori sheet on a bamboo mat, shiny side down.",
+        "Spread a thin layer of rice over the nori, leaving a 1-inch strip at the top.",
+        "Arrange strips of salmon, avocado, and cucumber in the center of the rice.",
+        "Using the mat, roll the sushi away from you, pressing gently to shape.",
+        "Moisten the bare strip of nori with water to seal the roll.",
+        "Use a sharp knife to cut the roll into 6-8 pieces.",
+        "Serve with soy sauce, wasabi, and pickled ginger."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chicken Tikka Masala",
+      "creator": {
+        "id": 7,
+        "name": "Madhur Jaffrey",
+        "img_url": "https://example.com/chefs/madhur.jpg",
+        "bio": "Indian actress and food writer, known for her Indian cookbooks",
+        "recipe_count": 89,
+        "total_reviews": 16780,
+        "avg_rating": 4.8,
+        "followers": 1200000,
+        "following": 35
+      },
+      "rating": 4.9,
+      "review_count": 4231,
+      "img_url": "https://example.com/recipes/chicken-tikka-masala.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/chicken-tikka-masala.mp4",
+        "total_length": 660000
+      },
+      "serving": 6,
+      "cooking_time": 3600,
+      "category": {
+        "id": 5,
+        "name": "Indian",
+        "img_url": "https://example.com/categories/indian.jpg"
+      },
+      "reviews": [
+        {
+          "id": 13,
+          "comment": "Authentic taste, just like in the best Indian restaurants!",
+          "rating": 5,
+          "created_at": "2024/10/16",
+          "user_id": 113
+        },
+        {
+          "id": 14,
+          "comment": "Perfectly spiced and so flavorful. A new family favorite.",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 114
+        }
+      ],
+      "created_at": "2024/04/01",
+      "ingredients": [
+        {
+          "id": 31,
+          "name": "Chicken thighs",
+          "img_url": "https://example.com/ingredients/chicken-thighs.jpg",
+          "quantity": 1,
+          "unit": "kg"
+        },
+        {
+          "id": 32,
+          "name": "Greek yogurt",
+          "img_url": "https://example.com/ingredients/greek-yogurt.jpg",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "id": 33,
+          "name": "Garam masala",
+          "img_url": "https://example.com/ingredients/garam-masala.jpg",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": 34,
+          "name": "Canned tomatoes",
+          "img_url": "https://example.com/ingredients/canned-tomatoes.jpg",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "id": 35,
+          "name": "Heavy cream",
+          "img_url": "https://example.com/ingredients/heavy-cream.jpg",
+          "quantity": 250,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt, lemon juice, and spices for at least 2 hours.",
+        "Grill or broil the marinated chicken until charred and cooked through.",
+        "In a large pan, saut\u00e9 onions until golden brown.",
+        "Add garlic, ginger, and spices, cook until fragrant.",
+        "Stir in canned tomatoes and simmer for 15 minutes.",
+        "Add grilled chicken and cream. Simmer for another 10 minutes.",
+        "Garnish with fresh cilantro and serve with naan bread or rice."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Classic French Onion Soup",
+      "creator": {
+        "id": 8,
+        "name": "Jacques P\u00e9pin",
+        "img_url": "https://example.com/chefs/jacques.jpg",
+        "bio": "French-American chef, television personality, and author",
+        "recipe_count": 132,
+        "total_reviews": 24680,
+        "avg_rating": 4.9,
+        "followers": 2800000,
+        "following": 18
+      },
+      "rating": 4.8,
+      "review_count": 3567,
+      "img_url": "https://example.com/recipes/french-onion-soup.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/french-onion-soup.mp4",
+        "total_length": 540000
+      },
+      "serving": 6,
+      "cooking_time": 5400,
+      "category": {
+        "id": 2,
+        "name": "French",
+        "img_url": "https://example.com/categories/french.jpg"
+      },
+      "reviews": [
+        {
+          "id": 15,
+          "comment": "Rich, comforting, and absolutely delicious!",
+          "rating": 5,
+          "created_at": "2024/10/14",
+          "user_id": 115
+        },
+        {
+          "id": 16,
+          "comment": "The perfect soup for a cold day. Love the cheesy topping!",
+          "rating": 5,
+          "created_at": "2024/10/13",
+          "user_id": 116
+        }
+      ],
+      "created_at": "2024/04/15",
+      "ingredients": [
+        {
+          "id": 36,
+          "name": "Yellow onions",
+          "img_url": "https://example.com/ingredients/yellow-onions.jpg",
+          "quantity": 1.5,
+          "unit": "kg"
+        },
+        {
+          "id": 37,
+          "name": "Beef broth",
+          "img_url": "https://example.com/ingredients/beef-broth.jpg",
+          "quantity": 2,
+          "unit": "L"
+        },
+        {
+          "id": 38,
+          "name": "Gruy\u00e8re cheese",
+          "img_url": "https://example.com/ingredients/gruyere.jpg",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "id": 39,
+          "name": "Baguette",
+          "img_url": "https://example.com/ingredients/baguette.jpg",
+          "quantity": 1,
+          "unit": "loaf"
+        },
+        {
+          "id": 40,
+          "name": "Dry white wine",
+          "img_url": "https://example.com/ingredients/white-wine.jpg",
+          "quantity": 250,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Thinly slice onions and cook in butter over low heat for 1 hour until caramelized.",
+        "Add flour and cook for 1 minute, then add wine and cook until evaporated.",
+        "Pour in beef broth and simmer for 30 minutes.",
+        "Toast baguette slices and rub with garlic.",
+        "Ladle soup into oven-safe bowls, top with toasted bread and grated Gruy\u00e8re.",
+        "Broil until cheese is melted and bubbly.",
+        "Serve hot, being careful of the hot bowls."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Homemade Guacamole",
+      "creator": {
+        "id": 9,
+        "name": "Rick Bayless",
+        "img_url": "https://example.com/chefs/rick.jpg",
+        "bio": "American chef specializing in traditional Mexican cuisine",
+        "recipe_count": 78,
+        "total_reviews": 13450,
+        "avg_rating": 4.7,
+        "followers": 950000,
+        "following": 132
+      },
+      "rating": 4.9,
+      "review_count": 2987,
+      "img_url": "https://example.com/recipes/guacamole.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/guacamole.mp4",
+        "total_length": 300000
+      },
+      "serving": 4,
+      "cooking_time": 900,
+      "category": {
+        "id": 6,
+        "name": "Mexican",
+        "img_url": "https://example.com/categories/mexican.jpg"
+      },
+      "reviews": [
+        {
+          "id": 17,
+          "comment": "Simple and delicious! The perfect guacamole recipe.",
+          "rating": 5,
+          "created_at": "2024/10/16",
+          "user_id": 117
+        },
+        {
+          "id": 18,
+          "comment": "Fresh and flavorful. A hit at our party!",
+          "rating": 5,
+          "created_at": "2024/10/15",
+          "user_id": 118
+        }
+      ],
+      "created_at": "2024/05/01",
+      "ingredients": [
+        {
+          "id": 41,
+          "name": "Ripe avocados",
+          "img_url": "https://example.com/ingredients/avocados.jpg",
+          "quantity": 3,
+          "unit": "pieces"
+        },
+        {
+          "id": 42,
+          "name": "Lime",
+          "img_url": "https://example.com/ingredients/lime.jpg",
+          "quantity": 1,
+          "unit": "piece"
+        },
+        {
+          "id": 43,
+          "name": "Red onion",
+          "img_url": "https://example.com/ingredients/red-onion.jpg",
+          "quantity": 0.25,
+          "unit": "piece"
+        },
+        {
+          "id": 44,
+          "name": "Cilantro",
+          "img_url": "https://example.com/ingredients/cilantro.jpg",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "id": 45,
+          "name": "Jalape\u00f1o",
+          "img_url": "https://example.com/ingredients/jalapeno.jpg",
+          "quantity": 1,
+          "unit": "piece"
+        }
+      ],
+      "instructions": [
+        "Cut avocados in half, remove pits, and scoop out the flesh into a bowl.",
+        "Mash the avocados with a fork, leaving some chunks for texture.",
+        "Finely chop onion, cilantro, and jalape\u00f1o (remove seeds for less heat).",
+        "Add chopped ingredients to the avocados.",
+        "Squeeze lime juice over the mixture and add salt to taste.",
+        "Gently stir everything together.",
+        "Taste and adjust seasoning as needed.",
+        "Serve immediately with tortilla chips or use as a topping."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Classic Tiramisu",
+      "creator": {
+        "id": 10,
+        "name": "Gennaro Contaldo",
+        "img_url": "https://example.com/chefs/gennaro.jpg",
+        "bio": "Italian chef known for his traditional Italian recipes",
+        "recipe_count": 86,
+        "total_reviews": 15780,
+        "avg_rating": 4.8,
+        "followers": 1100000,
+        "following": 67
+      },
+      "rating": 4.9,
+      "review_count": 3876,
+      "img_url": "https://example.com/recipes/tiramisu.jpg",
+      "video": {
+        "video_url": "https://example.com/videos/tiramisu.mp4",
+        "total_length": 480000
+      },
+      "serving": 8,
+      "cooking_time": 1800,
+      "category": {
+        "id": 1,
+        "name": "Italian",
+        "img_url": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/"
+      },
+      "reviews": [
+        {
+          "id": 19,
+          "comment": "Authentic and delicious! Better than any restaurant tiramisu.",
+          "rating": 5,
+          "created_at": "2024/10/14",
+          "user_id": 119
+        },
+        {
+          "id": 20,
+          "comment": "Perfect balance of coffee and cream. A new favorite!",
+          "rating": 5,
+          "created_at": "2024/10/13",
+          "user_id": 120
+        }
+      ],
+      "created_at": "2024/05/15",
+      "ingredients": [
+        {
+          "id": 46,
+          "name": "Mascarpone cheese",
+          "img_url": "https://example.com/ingredients/mascarpone.jpg",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": 47,
+          "name": "Ladyfinger cookies",
+          "img_url": "https://example.com/ingredients/ladyfingers.jpg",
+          "quantity": 24,
+          "unit": "pieces"
+        },
+        {
+          "id": 48,
+          "name": "Strong coffee",
+          "img_url": "https://example.com/ingredients/coffee.jpg",
+          "quantity": 250,
+          "unit": "ml"
+        },
+        {
+          "id": 49,
+          "name": "Eggs",
+          "img_url": "https://example.com/ingredients/eggs.jpg",
+          "quantity": 4,
+          "unit": "pieces"
+        },
+        {
+          "id": 50,
+          "name": "Cocoa powder",
+          "img_url": "https://example.com/ingredients/cocoa-powder.jpg",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Separate egg yolks and whites. Beat yolks with sugar until pale and creamy.",
+        "Add mascarpone to the yolk mixture and beat until smooth.",
+        "In a separate bowl, whip egg whites until stiff peaks form.",
+        "Gently fold the whipped egg whites into the mascarpone mixture.",
+        "Dip ladyfingers in coffee and layer them in a dish.",
+        "Spread half the mascarpone mixture over the ladyfingers.",
+        "Repeat with another layer of coffee-dipped ladyfingers and mascarpone.",
+        "Dust the top with cocoa powder and refrigerate for at least 4 hours before serving."
+      ]
+    }
+  ]
+}
