@@ -1,9 +1,13 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:recipe_app/blocs/category/popular_category_bloc.dart';
+import 'package:recipe_app/blocs/category/popular_category_event.dart';
 import 'package:recipe_app/blocs/trending/trending_bloc.dart';
 import 'package:recipe_app/blocs/trending/trending_event.dart';
+import 'package:recipe_app/repositories/category_repository.dart';
 import 'package:recipe_app/repositories/trending_repository.dart';
+import 'package:recipe_app/screens/home/sub_sections/popular_category_section.dart';
 import 'package:recipe_app/screens/home/sub_sections/trending_section.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -22,9 +26,9 @@ class HomeScreen extends StatelessWidget {
           BlocProvider<TrendingBloc>(
             create: (context) => TrendingBloc(TrendingRepository())..add(LoadTrendingRecipes()),
           ),
-          // BlocProvider<CategoryBloc>(
-          //   create: (context) => CategoryBloc(CategoryRepository())..add(LoadCategories()),
-          // ),
+          BlocProvider<PopularCategoryBloc>(
+            create: (context) => PopularCategoryBloc(categoryRepository: CategoryRepository())..add(FetchPopularCategories()),
+          ),
           // BlocProvider<RecentRecipeBloc>(
           //   create: (context) => RecentRecipeBloc(RecentRecipeRepository())..add(LoadRecentRecipes()),
           // ),
@@ -52,7 +56,7 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
               TrendingSection(),
-              // CategorySection(),
+              PopularCategorySection(),
               // RecentRecipeSection(),
               // CreatorSection(),
             ],

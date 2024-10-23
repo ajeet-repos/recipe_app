@@ -81,7 +81,7 @@ class Recipe {
       creator: Creator.fromMap(json["creator"]),
       rating: json["rating"],
       reviewCount: json["review_count"],
-      imageUrl: "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",//json["img_url"],
+      imageUrl: "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",//"https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",//json["img_url"],
       video: Video.fromMap(json["video"]),
       servings: json["serving"],
       cookTime: json["cooking_time"],
