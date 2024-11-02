@@ -21,15 +21,32 @@ class TrendingSection extends StatelessWidget {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Text(
+                    const Text(
                       'Trending now 🔥',
-                      style: Theme.of(context).textTheme.titleLarge,
+                      style: TextStyle(
+                          fontSize: 22,
+                          fontWeight: FontWeight.bold
+                      ),
                     ),
                     TextButton(
                       onPressed: () {
                         // TODO: Implement see all functionality
                       },
-                      child: Text('See all →'),
+                      child: const Row(
+                        children: [
+                          Text(
+                            'See all',
+                            style: TextStyle(
+                              fontSize: 16,
+                              color: Colors.pink,
+                            ),
+                          ),
+                          Icon(
+                            Icons.arrow_forward,
+                            color: Colors.pink,
+                          ),
+                        ],
+                      ),
                     ),
                   ],
                 ),

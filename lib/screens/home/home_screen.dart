@@ -3,11 +3,19 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:recipe_app/blocs/category/popular_category_bloc.dart';
 import 'package:recipe_app/blocs/category/popular_category_event.dart';
+import 'package:recipe_app/blocs/creator/creator_bloc.dart';
+import 'package:recipe_app/blocs/creator/creator_event.dart';
+import 'package:recipe_app/blocs/recent_recipe/recent_recipe_bloc.dart';
+import 'package:recipe_app/blocs/recent_recipe/recent_recipe_event.dart';
 import 'package:recipe_app/blocs/trending/trending_bloc.dart';
 import 'package:recipe_app/blocs/trending/trending_event.dart';
 import 'package:recipe_app/repositories/category_repository.dart';
+import 'package:recipe_app/repositories/creator_repository.dart';
+import 'package:recipe_app/repositories/recent_recipe_repository.dart';
 import 'package:recipe_app/repositories/trending_repository.dart';
+import 'package:recipe_app/screens/home/sub_sections/creator_section.dart';
 import 'package:recipe_app/screens/home/sub_sections/popular_category_section.dart';
+import 'package:recipe_app/screens/home/sub_sections/recent_recipe_section.dart';
 import 'package:recipe_app/screens/home/sub_sections/trending_section.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -29,14 +37,15 @@ class HomeScreen extends StatelessWidget {
           BlocProvider<PopularCategoryBloc>(
             create: (context) => PopularCategoryBloc(categoryRepository: CategoryRepository())..add(FetchPopularCategories()),
           ),
-          // BlocProvider<RecentRecipeBloc>(
-          //   create: (context) => RecentRecipeBloc(RecentRecipeRepository())..add(LoadRecentRecipes()),
-          // ),
-          // BlocProvider<CreatorBloc>(
-          //   create: (context) => CreatorBloc(CreatorRepository())..add(LoadCreators()),
-          // ),
+          BlocProvider<RecentRecipeBloc>(
+            create: (context) => RecentRecipeBloc(repository: RecentRecipeRepository())..add(LoadRecentRecipes()),
+          ),
+          BlocProvider<CreatorBloc>(
+            create: (context) => CreatorBloc(repository: PopularCreatorRepository())..add(FetchPopularCreators()),
+          ),
         ],
         child: SingleChildScrollView(
+          padding: const EdgeInsets.only(bottom: 80),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -57,12 +66,13 @@ class HomeScreen extends StatelessWidget {
               ),
               TrendingSection(),
               PopularCategorySection(),
-              // RecentRecipeSection(),
-              // CreatorSection(),
+              RecentRecipeSection(),
+              PopularCreatorsSection(),
             ],
           ),
         ),
       ),
+      extendBody: true,
       bottomNavigationBar: BottomAppBar(
         padding: EdgeInsets.symmetric(horizontal: 32),
         height: 60,
@@ -91,7 +101,10 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: Colors.pink,
         foregroundColor: Colors.white,
         onPressed: () {
-          // TODO: Implement create recipe functionality
+          Navigator.pushNamed(
+            context,
+            '/create_recipe',
+          );
         },
         child: Icon(Icons.add),
       ),

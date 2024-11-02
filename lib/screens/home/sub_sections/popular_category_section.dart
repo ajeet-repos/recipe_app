@@ -24,12 +24,38 @@ class PopularCategorySection extends StatelessWidget {
             children: [
               Padding(
                 padding: const EdgeInsets.only(left: 16),
-                child: Text(
-                  'Popular category',
-                  style: TextStyle(
-                    fontSize: 22,
-                    fontWeight: FontWeight.bold
-                  ),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      'Popular category',
+                      style: TextStyle(
+                          fontSize: 22,
+                          fontWeight: FontWeight.bold
+                      ),
+                    ),
+                    TextButton(
+                      onPressed: () {
+                        // Handle see all action
+                      },
+                      child: Row(
+                        children: [
+                          Text(
+                            'See all',
+                            style: TextStyle(
+                              color: Colors.pink,
+                              fontSize: 16,
+                            ),
+                          ),
+                          Icon(
+                            Icons.arrow_forward,
+                            color: Colors.pink,
+                            size: 20,
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
                 ),
               ),
               const SizedBox(height: 16),

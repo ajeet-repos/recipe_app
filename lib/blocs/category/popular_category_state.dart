@@ -1,7 +1,7 @@
 // States
 
 import 'package:equatable/equatable.dart';
-import 'package:recipe_app/models/popular_category.dart';
+import 'package:recipe_app/models/category/popular_category.dart';
 import 'package:recipe_app/models/recipe.dart';
 
 import '../../models/category.dart';

@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:flutter/services.dart';
-import 'package:recipe_app/models/trending_recipes_response.dart';
+import 'package:recipe_app/models/trending/trending_recipes_response.dart';
 
 class TrendingRepository {
 

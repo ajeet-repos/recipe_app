@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:recipe_app/models/popular_category.dart';
+import 'package:recipe_app/models/category/popular_category.dart';
 
 class PopularCategoryResponse {
   int status;

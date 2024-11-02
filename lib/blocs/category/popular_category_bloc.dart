@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:recipe_app/models/category.dart';
-import 'package:recipe_app/models/popular_category.dart';
+import 'package:recipe_app/models/category/popular_category.dart';
 import 'package:recipe_app/models/recipe.dart';
 import 'package:recipe_app/repositories/category_repository.dart';
 
@@ -52,6 +52,7 @@ class PopularCategoryBloc
       emit(PopularCategoryError(e.toString()));
     }
   }
+
 
   void _onPopularCategorySelected(
       PopularCategorySelected event,

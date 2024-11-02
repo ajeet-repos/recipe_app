@@ -99,7 +99,7 @@
       "creator": {
         "id": 2,
         "name": "Gordon Ramsay",
-        "img_url": "https://example.com/chefs/gordon.jpg",
+        "img_url": "https://img.freepik.com/free-photo/portrait-handsome-businessman-sitting-table-office-business-concept_1142-58116.jpg?t=st=1730102189~exp=1730105789~hmac=abb207e80d795413a06f72802ec99537a3fd4028bf5b1cac05d18fa22f05bab8&w=480",
         "bio": "Multi-Michelin starred chef known for his fiery temper and exquisite cuisine",
         "recipe_count": 152,
         "total_reviews": 28750,
@@ -109,7 +109,7 @@
       },
       "rating": 4.8,
       "review_count": 2187,
-      "img_url": "https://example.com/recipes/garlic-parmesan-risotto.jpg",
+      "img_url": "https://img.freepik.com/free-photo/high-angle-view-chicken-salad-bowl-with-garlic-fresh-tomatoes_176474-2668.jpg?t=st=1730101494~exp=1730105094~hmac=676572e0f13f2bbe5f667525fd05b9cf9d286d62128baee1b730f9e42813b6e8&w=480",
       "video": {
         "video_url": "https://example.com/videos/garlic-parmesan-risotto.mp4",
         "total_length": 540000
@@ -192,7 +192,7 @@
       "creator": {
         "id": 3,
         "name": "Julia Child",
-        "img_url": "https://www.pbs.org/food/chefs/julia-child/",
+        "img_url": "https://img.freepik.com/free-photo/3d-illustration-cute-little-girl-school-uniform_1142-51105.jpg?t=st=1730102012~exp=1730105612~hmac=a99000d7864e314c79185b523422f0bb80edeab167d1356da85d3d01a5718afc&w=480",
         "bio": "Legendary American chef who brought French cuisine to the American public",
         "recipe_count": 73,
         "total_reviews": 18960,
@@ -202,7 +202,7 @@
       },
       "rating": 4.9,
       "review_count": 4521,
-      "img_url": "https://example.com/recipes/beef-bourguignon.jpg",
+      "img_url": "https://img.freepik.com/free-photo/top-view-lule-kebab-with-tomato-paper-rice-ayran_176474-3400.jpg?t=st=1730101525~exp=1730105125~hmac=37e93e1c8865a10bc13cfa099c817bc835b798119728aa5056e817ef51522f05&w=480",
       "video": {
         "video_url": "https://www.youtube.com/watch?v=kxJEX0RW3Jg",
         "total_length": 720000
@@ -287,7 +287,7 @@
       "creator": {
         "id": 4,
         "name": "Jet Tila",
-        "img_url": "https://example.com/chefs/jet.jpg",
+        "img_url": "https://img.freepik.com/free-photo/3d-illustration-cartoon-character-business-suit-glasses_1142-40377.jpg?t=st=1730101920~exp=1730105520~hmac=9982192bd514354077441c0e5c420c5db79c4e4711aef451ecffbee0cc4d2786&w=480",
         "bio": "Thai-American chef known for his expertise in Pan-Asian cuisine",
         "recipe_count": 68,
         "total_reviews": 9870,
@@ -297,7 +297,7 @@
       },
       "rating": 4.7,
       "review_count": 1876,
-      "img_url": "https://example.com/recipes/spicy-pad-thai.jpg",
+      "img_url": "https://img.freepik.com/free-photo/arrangement-noodles-dark-table_23-2148803876.jpg?t=st=1730101556~exp=1730105156~hmac=db520a81ff025bb9a8766eeb3cee20e6793c0f8f29219052ca0dc521c41e2fe2&w=480",
       "video": {
         "video_url": "https://example.com/videos/spicy-pad-thai.mp4",
         "total_length": 480000
@@ -380,7 +380,7 @@
       "creator": {
         "id": 5,
         "name": "Lidia Bastianich",
-        "img_url": "https://example.com/chefs/lidia.jpg",
+        "img_url": "https://img.freepik.com/free-photo/3d-render-cute-little-girl-walking-park_1142-40714.jpg?t=st=1730102009~exp=1730105609~hmac=d61c7c3d8e56cdd2e7e82d57f9e41622a571468e181670e8b0fe087987b13b5c&w=480",
         "bio": "Italian-American chef, TV host, and author specializing in Italian cuisine",
         "recipe_count": 95,
         "total_reviews": 17650,
@@ -390,7 +390,7 @@
       },
       "rating": 4.8,
       "review_count": 3102,
-      "img_url": "https://example.com/recipes/beef-lasagna.jpg",
+      "img_url": "https://embed.widencdn.net/img/beef/wz3xipegj2/exact/no-fuss-beef-lasagna-horizontal.tif?keep=c&u=7fueml",
       "video": {
         "video_url": "https://example.com/videos/beef-lasagna.mp4",
         "total_length": 600000
@@ -473,7 +473,7 @@
       "creator": {
         "id": 6,
         "name": "Masaharu Morimoto",
-        "img_url": "https://example.com/chefs/morimoto.jpg",
+        "img_url": "https://img.freepik.com/free-photo/3d-illustration-businessman-black-suit-with-mustache_1142-51148.jpg?t=st=1730102004~exp=1730105604~hmac=47494758e816a0043dfb102641c8b27ff96e90e4dd8d4b8b9d8d23053f116fd7&w=480",
         "bio": "Japanese chef known for his innovative style of fusion cuisine",
         "recipe_count": 112,
         "total_reviews": 21450,
@@ -483,7 +483,7 @@
       },
       "rating": 4.7,
       "review_count": 2876,
-      "img_url": "https://example.com/recipes/sushi-rolls.jpg",
+      "img_url": "https://img.freepik.com/free-photo/top-view-sushi-set-with-pickled-ginger-wasabi-soy-sauce-chopsticks-dark-plate_176474-3464.jpg?t=st=1730101618~exp=1730105218~hmac=f6911bf098c3c562bff878aedb02270b83dd228ad28bf62e5ea191e9d3c4e800&w=480",
       "video": {
         "video_url": "https://example.com/videos/sushi-rolls.mp4",
         "total_length": 900000
@@ -566,7 +566,7 @@
       "creator": {
         "id": 7,
         "name": "Madhur Jaffrey",
-        "img_url": "https://example.com/chefs/madhur.jpg",
+        "img_url": "https://img.freepik.com/free-photo/man-with-beard-shirt-that-says-word-it_1340-40384.jpg?t=st=1730102001~exp=1730105601~hmac=271c91762dd9d579153883c292cfd38fd04e4aba8a9e3a79d7414f22f688914d&w=480",
         "bio": "Indian actress and food writer, known for her Indian cookbooks",
         "recipe_count": 89,
         "total_reviews": 16780,
@@ -576,7 +576,7 @@
       },
       "rating": 4.9,
       "review_count": 4231,
-      "img_url": "https://example.com/recipes/chicken-tikka-masala.jpg",
+      "img_url": "https://img.freepik.com/free-photo/indian-delicious-food-view_23-2148723502.jpg?t=st=1730101641~exp=1730105241~hmac=e561044dcb42b97690005177a0cb0fbead2474ed22d99bf57c41b7abff971182&w=480",
       "video": {
         "video_url": "https://example.com/videos/chicken-tikka-masala.mp4",
         "total_length": 660000
@@ -658,7 +658,7 @@
       "creator": {
         "id": 8,
         "name": "Jacques P\u00e9pin",
-        "img_url": "https://example.com/chefs/jacques.jpg",
+        "img_url": "https://img.freepik.com/free-photo/portrait-boy-red-jacket-3d-rendering_1142-38842.jpg?t=st=1730102000~exp=1730105600~hmac=73f516c1bd00c4ebbcebdb35b25220887955228afea148f68eda054a7e77f858&w=480",
         "bio": "French-American chef, television personality, and author",
         "recipe_count": 132,
         "total_reviews": 24680,
@@ -668,7 +668,7 @@
       },
       "rating": 4.8,
       "review_count": 3567,
-      "img_url": "https://example.com/recipes/french-onion-soup.jpg",
+      "img_url": "https://img.freepik.com/free-photo/top-view-mushroom-soup-with-crackers_176474-3405.jpg?t=st=1730101671~exp=1730105271~hmac=00f6e5580703c52428dcd61d88c69ce7a29d88381d44c44f4dd5645c61b41bb7&w=480",
       "video": {
         "video_url": "https://example.com/videos/french-onion-soup.mp4",
         "total_length": 540000
@@ -750,7 +750,7 @@
       "creator": {
         "id": 9,
         "name": "Rick Bayless",
-        "img_url": "https://example.com/chefs/rick.jpg",
+        "img_url": "https://img.freepik.com/free-photo/3d-illustration-cartoon-character-business-suit-glasses_1142-40377.jpg?t=st=1730101920~exp=1730105520~hmac=9982192bd514354077441c0e5c420c5db79c4e4711aef451ecffbee0cc4d2786&w=480",
         "bio": "American chef specializing in traditional Mexican cuisine",
         "recipe_count": 78,
         "total_reviews": 13450,
@@ -760,7 +760,7 @@
       },
       "rating": 4.9,
       "review_count": 2987,
-      "img_url": "https://example.com/recipes/guacamole.jpg",
+      "img_url": "https://img.freepik.com/free-photo/guacamole-nachos-paprika-with-avocado_23-2148132102.jpg?t=st=1730101694~exp=1730105294~hmac=874dd14d2fc6b1f98392beeebb99ca93dd6d0e2a54365f093a5c64cd06fc4ee8&w=480",
       "video": {
         "video_url": "https://example.com/videos/guacamole.mp4",
         "total_length": 300000
@@ -843,7 +843,7 @@
       "creator": {
         "id": 10,
         "name": "Gennaro Contaldo",
-        "img_url": "https://example.com/chefs/gennaro.jpg",
+        "img_url": "https://img.freepik.com/free-photo/illustration-senior-explorer-with-binocular-his-hand_1057-45469.jpg?t=st=1730101967~exp=1730105567~hmac=af3108423186e025480c1c04e62b6afe4511e5ff40ba64bae4d9b300f36a466a&w=480",
         "bio": "Italian chef known for his traditional Italian recipes",
         "recipe_count": 86,
         "total_reviews": 15780,
@@ -853,7 +853,7 @@
       },
       "rating": 4.9,
       "review_count": 3876,
-      "img_url": "https://example.com/recipes/tiramisu.jpg",
+      "img_url": "https://img.freepik.com/free-photo/side-view-chocolate-tiramisu-with-cup-tea-candle-white-plate-serving-napkins_176474-3042.jpg?t=st=1730101718~exp=1730105318~hmac=804e70429d3bc3b75b92758521c700ef1b0526b99d03bf1d920f64b18929f3e4&w=480",
       "video": {
         "video_url": "https://example.com/videos/tiramisu.mp4",
         "total_length": 480000

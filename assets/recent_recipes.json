@@ -17,7 +17,7 @@
       },
       "rating": 4.7,
       "review_count": 1876,
-      "img_url": "https://example.com/recipes/mushroom-risotto.jpg",
+      "img_url": "https://img.freepik.com/free-photo/caesar-salad-plate-with-tomato-bread-herbs-spices_176474-6809.jpg?t=st=1730099545~exp=1730103145~hmac=3836049805b3e8f5a6bc198da2e24b55c801d30480f136b481fbe95b97f5e378&w=1800",
       "video": {
         "video_url": "https://example.com/videos/mushroom-risotto.mp4",
         "total_length": 540000
@@ -110,7 +110,7 @@
       },
       "rating": 4.9,
       "review_count": 3254,
-      "img_url": "https://example.com/recipes/tom-yum-goong.jpg",
+      "img_url": "https://img.freepik.com/free-photo/top-view-tasty-composition-noodles-table_23-2148803862.jpg?t=st=1730099581~exp=1730103181~hmac=28c9fd2ed4acf96c7124e233d7c93278581e5fd0109f9ca4ed8f5b7648f82094&w=1800",
       "video": {
         "video_url": "https://example.com/videos/tom-yum-goong.mp4",
         "total_length": 780000
@@ -201,7 +201,7 @@
       },
       "rating": 4.6,
       "review_count": 2134,
-      "img_url": "https://example.com/recipes/vegetable-tempura.jpg",
+      "img_url": "https://img.freepik.com/free-photo/bowl-shrimp-rolls-with-sauce-lemon-slices_23-2148381139.jpg?t=st=1730099684~exp=1730103284~hmac=46f844184079264b140246b41d04f9649d11f4566ea056e94f8adeed66163da7&w=1800",
       "video": {
         "video_url": "https://example.com/videos/vegetable-tempura.mp4",
         "total_length": 720000
@@ -292,7 +292,7 @@
       },
       "rating": 4.7,
       "review_count": 2654,
-      "img_url": "https://example.com/recipes/soupe-a-loignon.jpg",
+      "img_url": "https://img.freepik.com/free-photo/top-view-delicious-soup-assortment_23-2148634458.jpg?t=st=1730099731~exp=1730103331~hmac=07d1bfc9fb895da4267a10605ebc4207c0b7f6feb09095ffa6581bb072cff407&w=1800",
       "video": {
         "video_url": "https://example.com/videos/soupe-a-loignon.mp4",
         "total_length": 480000
@@ -384,7 +384,7 @@
       },
       "rating": 4.8,
       "review_count": 2187,
-      "img_url": "https://example.com/recipes/tarte-tatin.jpg",
+      "img_url": "https://img.freepik.com/free-photo/breakfast_23-2148129765.jpg?t=st=1730099771~exp=1730103371~hmac=d9d7bbc91ba44a300c1878969de4924118ffed5a9a4733aa20e0db26060956f4&w=1800",
       "video": {
         "video_url": "https://example.com/videos/tarte-tatin.mp4",
         "total_length": 600000
@@ -477,7 +477,7 @@
       },
       "rating": 4.6,
       "review_count": 1876,
-      "img_url": "https://example.com/recipes/salade-nicoise.jpg",
+      "img_url": "https://img.freepik.com/free-photo/salad-with-tangerine_23-2148515525.jpg?t=st=1730099801~exp=1730103401~hmac=ae105947e2c8b3d1d8981bcaaf46c5c6f20eb884a22e158d683335b2b4f2aa1b&w=1800",
       "video": {
         "video_url": "https://example.com/videos/salade-nicoise.mp4",
         "total_length": 420000

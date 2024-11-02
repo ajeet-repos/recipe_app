@@ -4,7 +4,7 @@
     {
       "id": 51,
       "name": "Jamie Oliver",
-      "img_url": "https://example.com/chefs/jamie.jpg",
+      "img_url": "https://img.freepik.com/free-photo/3d-illustration-cute-cartoon-boy-holding-bowl-walnuts_1142-56951.jpg?t=st=1730098562~exp=1730102162~hmac=3ef334d5270fd3a543d4988e6ae3478395072d154957b9ce24f083fe68c017c4&w=480",
       "bio": "British chef and restaurateur, known for his approachable cuisine and food-focused television shows",
       "recipe_count": 287,
       "total_reviews": 542000,
@@ -15,7 +15,7 @@
     {
       "id": 52,
       "name": "Ina Garten",
-      "img_url": "https://example.com/chefs/ina.jpg",
+      "img_url": "https://img.freepik.com/free-photo/portrait-beautiful-girl-baseball-cap-3d-rendering_1142-40996.jpg?t=st=1730098558~exp=1730102158~hmac=0ff010d4c1a3e6acc91741dc88c808068aa7dfb1da16ef0f6ee0a45bf0f3a93b&w=480",
       "bio": "American author and host of the Food Network program Barefoot Contessa",
       "recipe_count": 218,
       "total_reviews": 412000,
@@ -26,7 +26,7 @@
     {
       "id": 53,
       "name": "Yotam Ottolenghi",
-      "img_url": "https://example.com/chefs/yotam.jpg",
+      "img_url": "https://img.freepik.com/free-photo/3d-rendering-little-boy-baseball-cap-with-backpack_1142-39074.jpg?t=st=1730098541~exp=1730102141~hmac=f0b3405b50c7f077061d6c1517c786acb0f19291e2874722f42cfc6f5ee09f5f&w=480",
       "bio": "Israeli-British chef, restaurant owner, and food writer known for his Middle Eastern flavors",
       "recipe_count": 176,
       "total_reviews": 298000,
@@ -37,7 +37,7 @@
     {
       "id": 54,
       "name": "Nigella Lawson",
-      "img_url": "https://example.com/chefs/nigella.jpg",
+      "img_url": "https://img.freepik.com/free-photo/portrait-beautiful-fashionable-girl-with-long-blond-hair-wearing-glasses_1142-57782.jpg?t=st=1730098557~exp=1730102157~hmac=e44b8a3ed5cc76592d8429f32908d5138946c3c930fe0c0fd6c3108df510d97b&w=480",
       "bio": "British food writer, journalist and broadcaster, known for her indulgent approach to food",
       "recipe_count": 243,
       "total_reviews": 387000,
@@ -48,7 +48,7 @@
     {
       "id": 55,
       "name": "Gordon Ramsay",
-      "img_url": "https://example.com/chefs/gordon.jpg",
+      "img_url": "https://img.freepik.com/free-photo/portrait-smiling-businessman-with-glasses-standing-front-his-team-3d-rendering_1142-41182.jpg?t=st=1730098006~exp=1730101606~hmac=fb8138a93b4f0c4b81269e8ef46b0722bc3546c9a543cb9ad9b62db20f4fd1b3&w=480",
       "bio": "British chef, restaurateur, writer, and television personality, known for his fiery temper and Michelin-starred restaurants",
       "recipe_count": 312,
       "total_reviews": 678000,
@@ -59,18 +59,18 @@
     {
       "id": 56,
       "name": "Massimo Bottura",
-      "img_url": "https://example.com/chefs/massimo.jpg",
+      "img_url": "https://img.freepik.com/free-photo/front-view-boy-having-fun-adventure-park_23-2150753120.jpg?t=st=1730097973~exp=1730101573~hmac=c5940b9ff7edcbb5674b8f7869c0e03a6032dd8f99d829fb96c5ae78466d299b&w=480",
       "bio": "Italian restaurateur and chef patron of Osteria Francescana, a three-Michelin-star restaurant",
       "recipe_count": 134,
       "total_reviews": 187000,
       "avg_rating": 4.9,
-      "followers": 1800000,
+      "followers": 480000,
       "following": 76
     },
     {
       "id": 57,
       "name": "Samin Nosrat",
-      "img_url": "https://example.com/chefs/samin.jpg",
+      "img_url": "https://img.freepik.com/free-photo/portrait-beautiful-girl-with-camera-her-hands_1142-40525.jpg?t=st=1730098551~exp=1730102151~hmac=57547f90c09e0a9e865eedca9ad22e5b92ab9e3172c0ad644987723bc97b3e8f&w=480",
       "bio": "American chef, TV host and food writer, known for her book 'Salt Fat Acid Heat'",
       "recipe_count": 98,
       "total_reviews": 156000,
@@ -81,7 +81,7 @@
     {
       "id": 58,
       "name": "Alain Ducasse",
-      "img_url": "https://example.com/chefs/alain.jpg",
+      "img_url": "https://img.freepik.com/free-photo/3d-illustration-cartoon-character-business-suit-glasses_1142-40377.jpg?t=st=1730097820~exp=1730101420~hmac=6212a1fbde5f94424aad08a1844653e796b5add55e25222957e78a2901a79b59&w=480",
       "bio": "Mon\u00e9gasque chef with 21 Michelin stars, known for his innovative and influential cuisine",
       "recipe_count": 276,
       "total_reviews": 412000,
@@ -92,7 +92,7 @@
     {
       "id": 59,
       "name": "Donna Hay",
-      "img_url": "https://example.com/chefs/donna.jpg",
+      "img_url": "https://img.freepik.com/free-photo/cute-cartoon-girl-with-pink-hair-street-3d-rendering_1142-40568.jpg?t=st=1730098539~exp=1730102139~hmac=41e357d27765b9f63106201a129be493757925c283547df8ac09369ff070c228&w=480",
       "bio": "Australian food stylist, author, and magazine editor known for her simple and stylish approach to food",
       "recipe_count": 187,
       "total_reviews": 267000,
@@ -103,7 +103,7 @@
     {
       "id": 60,
       "name": "David Chang",
-      "img_url": "https://example.com/chefs/david.jpg",
+      "img_url": "https://img.freepik.com/free-photo/young-man-with-backpack-tablet-city-3d-rendering_1057-45845.jpg?t=st=1730098882~exp=1730102482~hmac=1b29aba0f3cb2aecf4f68a0a8452df5851982a1c5af0327760fb9e73c4d904f5&w=480",
       "bio": "American restaurateur, author, and television personality, founder of the Momofuku restaurant group",
       "recipe_count": 156,
       "total_reviews": 234000,

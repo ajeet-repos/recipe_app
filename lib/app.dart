@@ -14,10 +14,12 @@ class App extends StatelessWidget {
       routes: {
         '/': (context) => OnboardingScreen(),
         // '/home': (context) => HomeScreen(),
-        // '/recipe_details': (context) => RecipeDetailsScreen(),
-        // '/create_recipe': (context) => CreateRecipeScreen(),
+        '/recipe_details': (context) {
+          final args = ModalRoute.of(context)!.settings.arguments as Map<String, dynamic>;
+          return RecipeDetailsScreen(recipe: args['recipe']);
+        },
+        '/create_recipe': (context) => CreateRecipeScreen(),
       },
     );;
   }
-
 }

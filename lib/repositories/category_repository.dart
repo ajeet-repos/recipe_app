@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
-import 'package:recipe_app/models/popular_categories_response.dart';
-import 'package:recipe_app/models/popular_category.dart';
+import 'package:recipe_app/models/category/popular_categories_response.dart';
+import 'package:recipe_app/models/category/popular_category.dart';
 import 'package:recipe_app/models/recipe.dart';
 
 class CategoryRepository {

@@ -1,128 +1,149 @@
-// import 'package:flutter/material.dart';
-//
-// import '../../models/recipe.dart';
-//
-// class CreateRecipeScreen extends StatefulWidget {
-//   @override
-//   _CreateRecipeScreenState createState() => _CreateRecipeScreenState();
-// }
-//
-// class _CreateRecipeScreenState extends State<CreateRecipeScreen> {
-//   final _formKey = GlobalKey<FormState>();
-//   late String _recipeName;
-//   late List<String> _ingredients;
-//   late List<String> _instructions;
-//
-//   @override
-//   void initState() {
-//     super.initState();
-//     _ingredients = [];
-//     _instructions = [];
-//   }
-//
-//   void _addIngredient() {
-//     setState(() {
-//       _ingredients.add('');
-//     });
-//   }
-//
-//   void _addInstruction() {
-//     setState(() {
-//       _instructions.add('');
-//     });
-//   }
-//
-//   void _submitForm() {
-//     if (_formKey.currentState!.validate()) {
-//       _formKey.currentState!.save();
-//       // Create a new recipe using the form data
-//       final recipe = Recipe(
-//         name: _recipeName,
-//         ingredients: _ingredients,
-//         instructions: _instructions,
-//         id: '1',
-//         imageUrl: '', author: '', rating: 4.5, cookTime: 30,
-//       );
-//       // Dispatch the recipe creation event using BLoC
-//       // context.read<RecipeBloc>().add(CreateRecipe(recipe));
-//
-//       // Navigate back to the home screen
-//       Navigator.pop(context);
-//     }
-//   }
-//
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(
-//         title: Text('Create Recipe'),
-//       ),
-//       body: SingleChildScrollView(
-//         child: Padding(
-//           padding: EdgeInsets.all(16),
-//           child: Form(
-//             key: _formKey,
-//             child: Column(
-//               crossAxisAlignment: CrossAxisAlignment.start,
-//               children: [
-//                 TextFormField(
-//                   decoration: InputDecoration(labelText: 'Recipe Name'),
-//                   validator: (value) {
-//                     if (value == null || value.isEmpty) {
-//                       return 'Please enter a recipe name';
-//                     }
-//                     return null;
-//                   },
-//                   onSaved: (value) {
-//                     _recipeName = value!;
-//                   },
-//                 ),
-//                 SizedBox(height: 16),
-//                 Text(
-//                   'Ingredients',
-//                   style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
-//                 ),
-//                 ..._ingredients.map((ingredient) {
-//                   return TextFormField(
-//                     decoration: InputDecoration(labelText: 'Ingredient'),
-//                     onChanged: (value) {
-//                       ingredient = value;
-//                     },
-//                   );
-//                 }).toList(),
-//                 SizedBox(height: 8),
-//                 ElevatedButton(
-//                   onPressed: _addIngredient,
-//                   child: Text('Add Ingredient'),
-//                 ),
-//                 SizedBox(height: 16),
-//                 Text(
-//                   'Instructions',
-//                   style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
-//                 ),
-//                 ..._instructions.map((instruction) {
-//                   return TextFormField(
-//                     decoration: InputDecoration(labelText: 'Instruction'),
-//                     onChanged: (value) {
-//                       instruction = value;
-//                     },
-//                   );
-//                 }).toList(),
-//                 SizedBox(height: 8),
-//                 ElevatedButton(
-//                   onPressed: _addInstruction,
-//                   child: Text('Add Instruction'),
-//                 ),
-//                 SizedBox(height: 16),
-//                 ElevatedButton(
-//                   onPressed: _submitForm,
-//                   child: Text('Create Recipe'),
-//                 ),
-//               ],
-//             ),
-//           ),
-//         ),
-//       ),
-//     );
-//   }
-// }
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:recipe_app/blocs/create_recipe/create_recipe_bloc.dart';
+import 'package:recipe_app/blocs/create_recipe/create_recipe_event.dart';
+import 'package:recipe_app/blocs/create_recipe/create_recipe_state.dart';
+
+class CreateRecipeScreen extends StatelessWidget {
+  final _formKey = GlobalKey<FormState>();
+  final _nameController = TextEditingController();
+  final _servingsController = TextEditingController();
+  final _cookTimeController = TextEditingController();
+  final _ingredientController = TextEditingController();
+
+  @override
+  Widget build(BuildContext context) {
+    return BlocProvider(
+      create: (context) => CreateRecipeBloc(),
+      child: Scaffold(
+        appBar: AppBar(
+          title: Text('Create Recipe'),
+          leading: IconButton(
+            icon: Icon(Icons.arrow_back),
+            onPressed: () => Navigator.pop(context),
+          ),
+        ),
+        body: BlocListener<CreateRecipeBloc, CreateRecipeState>(
+          listener: (context, state) {
+            if (state is CreateRecipeSuccess) {
+              // On success, navigate back
+              Navigator.pop(context);
+            } else if (state is CreateRecipeError) {
+              // Show error message
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(content: Text(state.message)),
+              );
+            }
+          },
+          child: SingleChildScrollView(
+            padding: EdgeInsets.all(16),
+            child: Form(
+              key: _formKey,
+              child: Column(
+                children: [
+                  // Recipe Name
+                  TextFormField(
+                    controller: _nameController,
+                    decoration: InputDecoration(
+                      labelText: 'Recipe Name',
+                      border: OutlineInputBorder(),
+                    ),
+                    validator: (value) {
+                      if (value == null || value.isEmpty) {
+                        return 'Please enter recipe name';
+                      }
+                      return null;
+                    },
+                  ),
+                  SizedBox(height: 16),
+
+                  // Servings
+                  TextFormField(
+                    controller: _servingsController,
+                    decoration: InputDecoration(
+                      labelText: 'Number of Servings',
+                      border: OutlineInputBorder(),
+                    ),
+                    keyboardType: TextInputType.number,
+                    validator: (value) {
+                      if (value == null || value.isEmpty) {
+                        return 'Please enter number of servings';
+                      }
+                      return null;
+                    },
+                  ),
+                  SizedBox(height: 16),
+
+                  // Cook Time
+                  TextFormField(
+                    controller: _cookTimeController,
+                    decoration: InputDecoration(
+                      labelText: 'Cooking Time (minutes)',
+                      border: OutlineInputBorder(),
+                    ),
+                    keyboardType: TextInputType.number,
+                    validator: (value) {
+                      if (value == null || value.isEmpty) {
+                        return 'Please enter cooking time';
+                      }
+                      return null;
+                    },
+                  ),
+                  SizedBox(height: 16),
+
+                  // Ingredients
+                  TextFormField(
+                    controller: _ingredientController,
+                    decoration: InputDecoration(
+                      labelText: 'Ingredients (comma separated)',
+                      border: OutlineInputBorder(),
+                    ),
+                    maxLines: 3,
+                    validator: (value) {
+                      if (value == null || value.isEmpty) {
+                        return 'Please enter ingredients';
+                      }
+                      return null;
+                    },
+                  ),
+                  SizedBox(height: 24),
+
+                  // Submit Button
+                  BlocBuilder<CreateRecipeBloc, CreateRecipeState>(
+                    builder: (context, state) {
+                      return ElevatedButton(
+                        onPressed: state is CreateRecipeLoading
+                            ? null
+                            : () {
+                          if (_formKey.currentState!.validate()) {
+                            context.read<CreateRecipeBloc>().add(
+                              SubmitRecipeEvent(
+                                name: _nameController.text,
+                                servings: int.parse(_servingsController.text),
+                                cookTime: int.parse(_cookTimeController.text),
+                                ingredients: _ingredientController.text
+                                    .split(',')
+                                    .map((e) => e.trim())
+                                    .toList(),
+                              ),
+                            );
+                          }
+                        },
+                        child: state is CreateRecipeLoading
+                            ? CircularProgressIndicator()
+                            : Text('Create Recipe'),
+                        style: ElevatedButton.styleFrom(
+                          minimumSize: Size(double.infinity, 48),
+                        ),
+                      );
+                    },
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}

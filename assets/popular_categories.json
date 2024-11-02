@@ -24,7 +24,7 @@
           },
           "rating": 4.8,
           "review_count": 2567,
-          "img_url": "https://example.com/recipes/pizza-margherita.jpg",
+          "img_url": "https://img.freepik.com/free-photo/top-view-delicious-pizza-concept_23-2148643435.jpg?t=st=1730099960~exp=1730103560~hmac=12d195d385b81751444df082bb578db526d454c3fd55ebe7370b83b97bac6368&w=480",
           "video": {
             "video_url": "https://example.com/videos/pizza-margherita.mp4",
             "total_length": 600000
@@ -117,7 +117,7 @@
           },
           "rating": 4.9,
           "review_count": 3254,
-          "img_url": "https://example.com/recipes/spaghetti-carbonara.jpg",
+          "img_url": "https://img.freepik.com/free-photo/fork-spaghetti-with-meat-basil-leaf-plate_23-2147922286.jpg?t=st=1730100011~exp=1730103611~hmac=cdab7643628efae752c3c54ddf9778c46663868e926049152a0e5d690dabc02a&w=480",
           "video": {
             "video_url": "https://example.com/videos/spaghetti-carbonara.mp4",
             "total_length": 420000
@@ -211,7 +211,7 @@
           },
           "rating": 4.8,
           "review_count": 2187,
-          "img_url": "https://example.com/recipes/osso-buco.jpg",
+          "img_url": "https://img.freepik.com/free-photo/fried-meat-chicken-with-fresh-salad_140725-4694.jpg?t=st=1730100037~exp=1730103637~hmac=a0080542007c5ea0a20c867bafd6c9e79be1a24229ba123ff8f2cabe56ea7b87&w=480",
           "video": {
             "video_url": "https://example.com/videos/osso-buco.mp4",
             "total_length": 720000
@@ -304,7 +304,7 @@
           },
           "rating": 4.7,
           "review_count": 1876,
-          "img_url": "https://example.com/recipes/panna-cotta.jpg",
+          "img_url": "https://img.freepik.com/free-photo/minimalist-plates-with-bio-food-lifestyle-concept_23-2148650248.jpg?t=st=1730100073~exp=1730103673~hmac=6a29007f37b231c51e62013f0e888b9d13c138740fb5f1244b3cf7936c066d43&w=480",
           "video": {
             "video_url": "https://example.com/videos/panna-cotta.mp4",
             "total_length": 360000
@@ -396,7 +396,7 @@
           },
           "rating": 4.6,
           "review_count": 1543,
-          "img_url": "https://example.com/recipes/ribollita.jpg",
+          "img_url": "https://www.connoisseurusveg.com/wp-content/uploads/2021/03/ribollita-r-14-of-14.jpg",
           "video": {
             "video_url": "https://example.com/videos/ribollita.mp4",
             "total_length": 540000
@@ -489,7 +489,7 @@
           },
           "rating": 4.8,
           "review_count": 2134,
-          "img_url": "https://example.com/recipes/arancini.jpg",
+          "img_url": "https://img.freepik.com/free-photo/close-up-plate-with-chicken-nuggets_23-2147765459.jpg?t=st=1730100201~exp=1730103801~hmac=fdf365c2e21a9d111c5ab07793671662a278440d783554b0649aabd55a6dbe75&w=480",
           "video": {
             "video_url": "https://example.com/videos/arancini.mp4",
             "total_length": 600000
@@ -582,7 +582,7 @@
           },
           "rating": 4.7,
           "review_count": 1876,
-          "img_url": "https://example.com/recipes/pasta-alla-norma.jpg",
+          "img_url": "https://img.freepik.com/free-photo/tasty-fettuccine-pasta-dish-topped-with-grated-cheese-white-plate_181624-59330.jpg?t=st=1730100235~exp=1730103835~hmac=f4ac96878aab6743720aff265ee531103a73cff2fa763cf82eedae1cec8d0dd2&w=480",
           "video": {
             "video_url": "https://example.com/videos/pasta-alla-norma.mp4",
             "total_length": 480000
@@ -675,7 +675,7 @@
           },
           "rating": 4.9,
           "review_count": 2345,
-          "img_url": "https://example.com/recipes/saltimbocca.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/saltimbocca.mp4",
             "total_length": 420000
@@ -769,7 +769,7 @@
           },
           "rating": 4.6,
           "review_count": 1654,
-          "img_url": "https://example.com/recipes/caponata.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/caponata.mp4",
             "total_length": 540000
@@ -862,7 +862,7 @@
           },
           "rating": 4.8,
           "review_count": 2098,
-          "img_url": "https://example.com/recipes/gnocchi-sorrentina.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/gnocchi-sorrentina.mp4",
             "total_length": 600000
@@ -964,7 +964,7 @@
           },
           "rating": 4.8,
           "review_count": 3876,
-          "img_url": "https://example.com/recipes/coq-au-vin.jpg",
+          "img_url": "https://img.freepik.com/free-photo/top-view-baked-chicken-orange-slices-plate-with-herbs_23-2148682769.jpg?t=st=1730101103~exp=1730104703~hmac=6e9875f421d5a9ea86806032b9e69f4d6383419f5805c7f04ba0684592675cd1&w=480",
           "video": {
             "video_url": "https://www.bonappetit.com/recipe/classic-coq-au-vin",
             "total_length": 720000
@@ -1059,7 +1059,7 @@
           },
           "rating": 4.7,
           "review_count": 2876,
-          "img_url": "https://example.com/recipes/ratatouille.jpg",
+          "img_url": "https://img.freepik.com/free-photo/delicious-vegetable-ratatouille-white-baking-dish-wooden-background_127032-3201.jpg?t=st=1730101075~exp=1730104675~hmac=100250ab45ce29ee9e489487cfdc635ddbb28badb90a59f3002485055537b19b&w=480",
           "video": {
             "video_url": "https://example.com/videos/ratatouille.mp4",
             "total_length": 720000
@@ -1152,7 +1152,7 @@
           },
           "rating": 4.8,
           "review_count": 3102,
-          "img_url": "https://example.com/recipes/quiche-lorraine.jpg",
+          "img_url": "https://img.freepik.com/free-photo/top-view-georgian-homemade-round-cheese-cake_140725-12555.jpg?t=st=1730101038~exp=1730104638~hmac=598a540e259aa7f01cf2aa1f0576776c63ea5649ab0cdb64c5bd8c0cfc5742a5&w=480",
           "video": {
             "video_url": "https://example.com/videos/quiche-lorraine.mp4",
             "total_length": 600000
@@ -1245,7 +1245,7 @@
           },
           "rating": 4.9,
           "review_count": 2567,
-          "img_url": "https://example.com/recipes/bouillabaisse.jpg",
+          "img_url": "https://img.freepik.com/free-photo/high-angle-delicious-shrimp-meal_23-2148771278.jpg?t=st=1730101000~exp=1730104600~hmac=81a4a688a5b10853e38bee9e8140c16e197d608e0e6250db52673730a65fa8f3&w=480",
           "video": {
             "video_url": "https://example.com/videos/bouillabaisse.mp4",
             "total_length": 900000
@@ -1338,7 +1338,7 @@
           },
           "rating": 4.7,
           "review_count": 1987,
-          "img_url": "https://example.com/recipes/cassoulet.jpg",
+          "img_url": "https://www.foodandwine.com/thmb/2iGXpCRLpiiadlYqnyDAqsDOJ5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Same-Day-Cassoulet-XL-MAG0922-2000-74ee1d4eb23c47a4818fc9e609d9421a.jpg",
           "video": {
             "video_url": "https://example.com/videos/cassoulet.mp4",
             "total_length": 1080000
@@ -1431,7 +1431,7 @@
           },
           "rating": 4.8,
           "review_count": 3421,
-          "img_url": "https:reme-brulee.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/creme-brulee.mp4",
             "total_length": 540000
@@ -1524,7 +1524,7 @@
           },
           "rating": 4.9,
           "review_count": 3876,
-          "img_url": "https://example.com/recipes/beef-bourguignon.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://www.youtube.com/watch?v=kxJEX0RW3Jg",
             "total_length": 780000
@@ -1619,7 +1619,7 @@
           },
           "rating": 4.7,
           "review_count": 2654,
-          "img_url": "https://example.com/recipes/soupe-a-loignon.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/soupe-a-loignon.mp4",
             "total_length": 480000
@@ -1711,7 +1711,7 @@
           },
           "rating": 4.8,
           "review_count": 2187,
-          "img_url": "https://example.com/recipes/tarte-tatin.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/tarte-tatin.mp4",
             "total_length": 600000
@@ -1804,7 +1804,7 @@
           },
           "rating": 4.6,
           "review_count": 1876,
-          "img_url": "https://example.com/recipes/salade-nicoise.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/salade-nicoise.mp4",
             "total_length": 420000
@@ -1906,7 +1906,7 @@
           },
           "rating": 4.9,
           "review_count": 4231,
-          "img_url": "https://example.com/recipes/beef-pho.jpg",
+          "img_url": "https://img.freepik.com/free-photo/delicious-soup-with-meat-noodles-white-bowl_181624-29261.jpg?t=st=1730101183~exp=1730104783~hmac=06a31f05cd38cb9a752a4fb58190ac1609e7b02d58762549f501eab3fcdb85da&w=480",
           "video": {
             "video_url": "https://example.com/videos/beef-pho.mp4",
             "total_length": 900000
@@ -1999,7 +1999,7 @@
           },
           "rating": 4.8,
           "review_count": 3254,
-          "img_url": "https://example.com/recipes/sushi-rolls.jpg",
+          "img_url": "https://img.freepik.com/free-photo/flat-lay-plate-sushi-rolls-with-nigiri_23-2148348167.jpg?t=st=1730101211~exp=1730104811~hmac=bd51f59a232f948b08734290e235bad479ea973ffe42de2a3e3325063407bbd1&w=480",
           "video": {
             "video_url": "https://example.com/videos/sushi-rolls.mp4",
             "total_length": 900000
@@ -2092,7 +2092,7 @@
           },
           "rating": 4.7,
           "review_count": 2987,
-          "img_url": "https://example.com/recipes/pad-thai.jpg",
+          "img_url": "https://img.freepik.com/free-photo/delicious-meal-blue-plate-wood-red-cloth-white-textured-background-top-view_176474-3631.jpg?t=st=1730101246~exp=1730104846~hmac=4a2bbedde1820ce90e24bb24b42c5ba202adfe10c3b5228e9821aedb0fbd5079&w=480",
           "video": {
             "video_url": "https://example.com/videos/pad-thai.mp4",
             "total_length": 720000
@@ -2185,7 +2185,7 @@
           },
           "rating": 4.9,
           "review_count": 3421,
-          "img_url": "https://example.com/recipes/beef-pho.jpg",
+          "img_url": "https://img.freepik.com/free-photo/flat-lay-tasty-jewish-dish_23-2148814521.jpg?t=st=1730101280~exp=1730104880~hmac=409e84cab3c604ebd5978b33c301016f5861241dba41a0e2d3e81c19cc618742&w=480",
           "video": {
             "video_url": "https://example.com/videos/beef-pho.mp4",
             "total_length": 1080000
@@ -2278,7 +2278,7 @@
           },
           "rating": 4.8,
           "review_count": 3102,
-          "img_url": "https://example.com/recipes/chicken-tikka-masala.jpg",
+          "img_url": "https://img.freepik.com/free-photo/top-chiken-stew-with-garlic-tomato-sauce-served-with-spices-wooden-board_140725-12330.jpg?t=st=1730101312~exp=1730104912~hmac=7ef01a0cb52ec099e9aaf827bd3a7b70b5299042f59eba5045b0f2fdf4df6e4e&w=480",
           "video": {
             "video_url": "https://example.com/videos/chicken-tikka-masala.mp4",
             "total_length": 840000
@@ -2370,7 +2370,7 @@
           },
           "rating": 4.7,
           "review_count": 2654,
-          "img_url": "https://example.com/recipes/dim-sum-platter.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/dim-sum-platter.mp4",
             "total_length": 1200000
@@ -2462,7 +2462,7 @@
           },
           "rating": 4.8,
           "review_count": 3876,
-          "img_url": "https://example.com/recipes/bibimbap.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/bibimbap.mp4",
             "total_length": 900000
@@ -2554,7 +2554,7 @@
           },
           "rating": 4.9,
           "review_count": 3254,
-          "img_url": "https://example.com/recipes/tom-yum-goong.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/tom-yum-goong.mp4",
             "total_length": 780000
@@ -2645,7 +2645,7 @@
           },
           "rating": 4.6,
           "review_count": 2134,
-          "img_url": "https://example.com/recipes/vegetable-tempura.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/vegetable-tempura.mp4",
             "total_length": 720000
@@ -2736,7 +2736,7 @@
           },
           "rating": 4.7,
           "review_count": 2876,
-          "img_url": "https://example.com/recipes/kung-pao-chicken.jpg",
+          "img_url": "https://images.pexels.com/photos/3807044/pexels-photo-3807044.jpeg",
           "video": {
             "video_url": "https://example.com/videos/kung-pao-chicken.mp4",
             "total_length": 660000
